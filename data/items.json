@@ -24,57 +24,66 @@
   ],
   "pricing": "开源",
   "score": 9,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/onehumanbeing/esp32-iphone-agent"
  },
  {
-  "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-  "link": "https://pulseos.finance",
-  "date": "2026-10-13T23:13:23+00:00",
-  "pop": "▲ 55 points",
+  "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+  "link": "https://github.com/SaarthurR/atticus-mac",
+  "date": "2026-10-12T00:15:12+00:00",
+  "pop": "▲ 114 points",
   "source": "Show HN",
+  "source_group": "Show HN",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "6bfaaf873eeb",
+  "id": "ce7cbe0fa785",
   "keep": true,
-  "name": "Pulse Local",
-  "summary": "Mac 上的记账应用，AI 模型跑在本机，回答你的消费问题，本地模式无需账号。",
-  "why": "账本和提问都留在机器上，还不发分析和崩溃日志。",
-  "audience": "注重隐私的 Mac 用户",
+  "name": "Atticus",
+  "summary": "macOS 按住 Control-Option-Space 说话的语音助手：简单指令本地秒办，复杂任务走 Claude -p，无需 API Key。",
+  "why": "简单指令不到一秒，不占用 AI 调用",
+  "audience": "Mac 效率党",
   "section": "AI 原生应用",
   "tags": [
-   "本地AI",
-   "记账",
-   "隐私"
+   "AI Agent",
+   "本地 AI",
+   "生产力"
   ],
   "platform": [
    "Mac"
   ],
   "pricing": "未知",
-  "score": 8,
-  "day": "2026-10-14"
+  "score": 9,
+  "day": "2026-10-14",
+  "rank": 12.24
  },
  {
-  "title": "OpenCode 2.0",
-  "link": "https://www.producthunt.com/products/opencode",
-  "date": "2026-10-12T20:08:47+00:00",
-  "pop": null,
-  "source": "Product Hunt",
+  "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+  "link": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+  "date": "2026-10-12T18:03:56+00:00",
+  "pop": "▲ 39 points",
+  "source": "Show HN",
+  "source_group": "Show HN",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "38291338172c",
+  "id": "d2298457f15c",
   "keep": true,
-  "name": "OpenCode 2.0",
-  "summary": "开源的 AI 编程 agent，主打把写代码这件事交给它。",
-  "why": "开源阵营又添一个写码 agent 选项。",
-  "audience": "开发者",
-  "section": "开发者工具",
+  "name": "Mana",
+  "summary": "作者称用 Opus 5.5、8 个提示词、3 小时做出功能完整的 Figma 克隆，几乎看不出差别。",
+  "why": "vibe coding 从「像」跨到「就是」",
+  "audience": "开发者与产品人",
+  "section": "AI 原生应用",
   "tags": [
-   "开源",
-   "AI编程",
-   "Agent"
+   "AI 编程",
+   "AI Agent"
   ],
   "platform": [],
-  "pricing": "开源",
-  "score": 8,
-  "day": "2026-10-14"
+  "pricing": "未知",
+  "score": 9,
+  "day": "2026-10-14",
+  "rank": 11.96
  },
  {
   "title": "ARahim3/DigUp",
@@ -92,42 +101,45 @@
   "audience": "Mac 用户",
   "section": "效率工具",
   "tags": [
-   "本地搜索",
-   "AI",
-   "Mac"
+   "搜索"
   ],
   "platform": [
    "Mac"
   ],
   "pricing": "开源",
   "score": 8,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/ARahim3/DigUp"
  },
  {
-  "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-  "link": "https://github.com/LargeModGames/spotatui",
-  "date": "2026-10-13T11:32:00+00:00",
-  "pop": "▲ 50 points",
+  "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+  "link": "https://github.com/snuri00/ps2-web-recomp",
+  "date": "2026-10-12T06:46:53+00:00",
+  "pop": "▲ 307 points",
   "source": "Show HN",
+  "source_group": "Show HN",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "4a4d21f2bb0d",
+  "id": "6672e99a5764",
   "keep": true,
-  "name": "Spotatui",
-  "summary": "基于终端的 Spotify 客户端，绕开 Web API 的各种限流与接口下线问题。",
-  "why": "作者接手无人维护的老项目，硬刚官方限流",
-  "audience": "终端重度用户",
-  "section": "独立开发/小而美",
+  "name": "ps2-web-recomp",
+  "summary": "把 PS2 游戏静态重编译为 WebAssembly，直接在浏览器里运行。",
+  "why": "不靠模拟器，用重编译复活老游戏",
+  "audience": "复古游戏玩家与开发者",
+  "section": "游戏娱乐",
   "tags": [
-   "开源",
-   "音乐",
-   "TUI"
+   "游戏娱乐",
+   "开源"
   ],
   "platform": [
-   "CLI"
+   "Web"
   ],
   "pricing": "开源",
   "score": 8,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "rank": 11.49
  },
  {
   "title": "noahdunnagan/fsearch",
@@ -146,15 +158,49 @@
   "section": "效率工具",
   "tags": [
    "搜索",
-   "开源",
-   "Rust"
+   "开源"
   ],
   "platform": [
    "Mac"
   ],
   "pricing": "开源",
   "score": 8,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/noahdunnagan/fsearch"
+ },
+ {
+  "title": "jhaizhou-ops/d2r-mobile",
+  "link": "https://github.com/jhaizhou-ops/d2r-mobile",
+  "date": "2026-10-12T08:41:19Z",
+  "pop": "★ 1354",
+  "image": "https://avatars.githubusercontent.com/u/258432107?v=4",
+  "source": "GitHub",
+  "source_group": "GitHub",
+  "home": "",
+  "thin": false,
+  "badge": "",
+  "id": "a6e633d8cf44",
+  "keep": true,
+  "name": "d2r-mobile",
+  "summary": "开源兼容层，让 iPhone、iPad、Mac 原生运行自备的 Switch 版《暗黑破坏神 II：狱火重生》，支持触控、60 帧与新终局模式。",
+  "why": "带上自己的游戏文件，手机刷暗黑",
+  "audience": "暗黑玩家、折腾党",
+  "section": "独立开发/小而美",
+  "tags": [
+   "开源",
+   "游戏娱乐"
+  ],
+  "platform": [
+   "iOS",
+   "Mac",
+   "iPad"
+  ],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14",
+  "rank": 11.38,
+  "shot": "https://opengraph.githubassets.com/1/jhaizhou-ops/d2r-mobile"
  },
  {
   "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
@@ -171,14 +217,68 @@
   "audience": "工程师与开发者",
   "section": "开发者工具",
   "tags": [
-   "CAD",
-   "Rust",
+   "设计",
    "开源"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 8,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
+ },
+ {
+  "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+  "link": "https://pulseos.finance",
+  "date": "2026-10-13T23:13:23+00:00",
+  "pop": "▲ 55 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "6bfaaf873eeb",
+  "keep": true,
+  "name": "Pulse Local",
+  "summary": "Mac 上的记账应用，AI 模型跑在本机，回答你的消费问题，本地模式无需账号。",
+  "why": "账本和提问都留在机器上，还不发分析和崩溃日志。",
+  "audience": "注重隐私的 Mac 用户",
+  "section": "AI 原生应用",
+  "tags": [
+   "本地 AI",
+   "金融记账",
+   "隐私安全"
+  ],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "未知",
+  "score": 8,
+  "day": "2026-10-14",
+  "source_group": "Show HN"
+ },
+ {
+  "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+  "link": "https://github.com/LargeModGames/spotatui",
+  "date": "2026-10-13T11:32:00+00:00",
+  "pop": "▲ 50 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "4a4d21f2bb0d",
+  "keep": true,
+  "name": "Spotatui",
+  "summary": "基于终端的 Spotify 客户端，绕开 Web API 的各种限流与接口下线问题。",
+  "why": "作者接手无人维护的老项目，硬刚官方限流",
+  "audience": "终端重度用户",
+  "section": "独立开发/小而美",
+  "tags": [
+   "开源",
+   "音频音乐",
+   "终端 CLI"
+  ],
+  "platform": [
+   "CLI"
+  ],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
   "title": "wheresryan22/anatomy",
@@ -196,64 +296,15 @@
   "audience": "开发者、技术讲师",
   "section": "开发者工具",
   "tags": [
-   "SVG",
-   "插画",
-   "Agent Skill"
+   "设计",
+   "AI Agent"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Seply Speaker Split – Split mixed recordings into time-aligned tracks for each speaker",
-  "link": "https://betalist.com/startups/seply-speaker-split?utm_campaign=startup-185458&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-14T00:00:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "59b63c675b2c",
-  "keep": true,
-  "name": "Seply Speaker Split",
-  "summary": "把混合录音按说话人拆成时间对齐的独立音轨，并输出带说话人标签的转录文本。",
-  "why": "重叠说话也有高级模式，还免安装。",
-  "audience": "会议记录、播客剪辑",
-  "section": "效率工具",
-  "tags": [
-   "音频分离",
-   "转录",
-   "会议"
-  ],
-  "platform": [
-   "Web"
-  ],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-  "link": "https://parsimony.lasu.dev/",
-  "date": "2026-10-13T19:50:31+00:00",
-  "pop": "▲ 50 points",
-  "source": "Show HN",
-  "badge": "",
-  "id": "0a248ec43515",
-  "keep": true,
-  "name": "Parsimony",
-  "summary": "开源的 AI 写码量基准：统计模型提交补丁里的语法单元，衡量它多写了多少多余代码。",
-  "why": "只比解题率不够，代码写得越臃肿越难维护。",
-  "audience": "AI 编程工具开发者",
-  "section": "开发者工具",
-  "tags": [
-   "基准测试",
-   "代码质量",
-   "开源"
-  ],
-  "platform": [],
-  "pricing": "开源",
-  "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/wheresryan22/anatomy"
  },
  {
   "title": "mhtsec/ARTEX",
@@ -271,14 +322,22 @@
   "audience": "安全研究与红队",
   "section": "开发者工具",
   "tags": [
-   "安全",
-   "Agent",
+   "隐私安全",
+   "AI Agent",
    "开源"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "also": [
+   {
+    "source": "GitHub",
+    "link": "https://github.com/trhhubsd/ARTEXX"
+   }
+  ],
+  "shot": "https://opengraph.githubassets.com/1/mhtsec/ARTEX"
  },
  {
   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
@@ -295,114 +354,16 @@
   "audience": "吉他初学者与练琴人",
   "section": "消费与生活",
   "tags": [
-   "音乐",
-   "浏览器",
-   "免费"
+   "音频音乐",
+   "浏览器"
   ],
   "platform": [
    "Web"
   ],
   "pricing": "免费",
   "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Vindeo – Edit short videos with natural language and publish in minutes",
-  "link": "https://betalist.com/startups/vindeo?utm_campaign=startup-193124&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T21:00:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "429282dfb6f8",
-  "keep": true,
-  "name": "Vindeo",
-  "summary": "用自然语言描述你的 Reel、TikTok 或 Short，它自动生成初剪、字幕、B-roll、转场与音频，并能写文案、直接发布或排期。",
-  "why": "AI 干重活，时间线仍归你掌控。",
-  "audience": "短视频创作者",
-  "section": "AI 原生应用",
-  "tags": [
-   "AI视频",
-   "短视频",
-   "内容创作"
-  ],
-  "platform": [],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Show HN: XY Music Notation",
-  "link": "https://music.xy.dev/",
-  "date": "2026-10-13T17:43:05+00:00",
-  "pop": "▲ 47 points",
-  "source": "Show HN",
-  "badge": "",
-  "id": "be9ce576739f",
-  "keep": true,
-  "name": "XY Music Notation",
-  "summary": "为一把十二进制记谱的同构音乐键盘打造的乐谱渲染后端，基于 MuseScore，用自定义符头显示每个音的调性类别。",
-  "why": "为新鲜键盘发明一套记谱法。",
-  "audience": "音乐学习者与开发者",
-  "section": "独立开发/小而美",
-  "tags": [
-   "音乐",
-   "记谱法",
-   "MuseScore"
-  ],
-  "platform": [],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Anchorlight – Focus your days on what matters, not distractions",
-  "link": "https://betalist.com/startups/anchorlight?utm_campaign=startup-193121&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T19:05:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "4b9d212a905f",
-  "keep": true,
-  "name": "Anchorlight",
-  "summary": "把提醒、日历和每周回顾合在一起，帮你把每一天锚定在真正重要的人和目标上。",
-  "why": "不催你做更多，只问这周什么往前动了。",
-  "audience": "想减少干扰的自我管理者",
-  "section": "效率工具",
-  "tags": [
-   "专注",
-   "目标管理",
-   "日历"
-  ],
-  "platform": [],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "PodSafe – Enjoy podcasts with your kids without profanity",
-  "link": "https://betalist.com/startups/podsafe?utm_campaign=startup-191221&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T16:05:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "986a6762d2f5",
-  "keep": true,
-  "name": "PodSafe",
-  "summary": "听播客时自动过滤脏话，转录与处理全部在 iPhone 本地完成。",
-  "why": "家长能放心和孩子一起听播客了。",
-  "audience": "有孩子的家长",
-  "section": "消费与生活",
-  "tags": [
-   "播客",
-   "内容过滤",
-   "隐私"
-  ],
-  "platform": [
-   "iOS"
-  ],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
@@ -419,67 +380,46 @@
   "audience": "学生与通勤听书党",
   "section": "效率工具",
   "tags": [
-   "TTS",
-   "有声书",
-   "OpenAI"
+   "音频音乐"
   ],
   "platform": [
    "Web"
   ],
   "pricing": "未知",
   "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
-  "title": "trhhubsd/ARTEXX",
-  "link": "https://github.com/trhhubsd/ARTEXX",
-  "date": "2026-10-08T20:35:22Z",
-  "pop": "★ 1207",
-  "image": "https://avatars.githubusercontent.com/u/91248508?v=4",
+  "title": "wesbos/photo-frame-dashboard",
+  "link": "https://github.com/wesbos/photo-frame-dashboard",
+  "date": "2026-10-08T18:22:19Z",
+  "pop": "★ 1099",
+  "image": "https://avatars.githubusercontent.com/u/176013?v=4",
   "source": "GitHub",
+  "source_group": "GitHub",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "aa9d8407021a",
+  "id": "5e12bab734f5",
   "keep": true,
-  "name": "ARTEXX",
-  "summary": "AI 自主渗透测试系统，百度「agent+」攻防挑战赛冠军项目。",
-  "why": "让 AI 自己去打攻防。",
-  "audience": "安全研究者",
-  "section": "AI 原生应用",
+  "name": "photo-frame-dashboard",
+  "summary": "把 ADB、root、备份和自定义应用塞进被锁死的 Android 智能相框（如 Skylight Calendar、BIUFRAME）的开源项目。",
+  "why": "给锁死的相框开后门，折腾空间一下打开",
+  "audience": "爱折腾硬件的玩家",
+  "section": "硬件与设备",
   "tags": [
-   "安全",
-   "AI Agent",
-   "开源"
+   "开源",
+   "硬件"
   ],
-  "platform": [],
+  "platform": [
+   "Android"
+  ],
   "pricing": "开源",
   "score": 7,
-  "day": "2026-10-14"
- },
- {
-  "title": "Jaah – Delegate engineering work to AI agents with reviews, records, and rules",
-  "link": "https://betalist.com/startups/jaah?utm_campaign=startup-193231&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T12:20:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "feac27400951",
-  "keep": true,
-  "name": "Jaah",
-  "summary": "把工程任务交给 AI 编码代理，同时用评审、审计记录、权限与工作流规则守住流程。",
-  "why": "给编码代理加上护栏和报告。",
-  "audience": "研发团队",
-  "section": "开发者工具",
-  "tags": [
-   "AI Agent",
-   "代码评审",
-   "协作"
-  ],
-  "platform": [
-   "Web"
-  ],
-  "pricing": "未知",
-  "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "rank": 10.32,
+  "shot": "https://opengraph.githubassets.com/1/wesbos/photo-frame-dashboard"
  },
  {
   "title": "Show HN: An experimental pattern-first DAW that supports MCP",
@@ -496,66 +436,116 @@
   "audience": "音乐制作人与开发者",
   "section": "开发者工具",
   "tags": [
-   "DAW",
-   "MCP",
-   "实验性"
+   "音频音乐",
+   "AI Agent"
   ],
   "platform": [],
   "pricing": "未知",
   "score": 7,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
-  "title": "vibesmonitor.com",
-  "link": "https://www.producthunt.com/products/vibesmonitor",
-  "date": "2026-10-12T18:25:03+00:00",
+  "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+  "link": "https://parsimony.lasu.dev/",
+  "date": "2026-10-13T19:50:31+00:00",
+  "pop": "▲ 50 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "0a248ec43515",
+  "keep": true,
+  "name": "Parsimony",
+  "summary": "开源的 AI 写码量基准：统计模型提交补丁里的语法单元，衡量它多写了多少多余代码。",
+  "why": "只比解题率不够，代码写得越臃肿越难维护。",
+  "audience": "AI 编程工具开发者",
+  "section": "开发者工具",
+  "tags": [
+   "开发运维",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "Show HN"
+ },
+ {
+  "title": "Show HN: XY Music Notation",
+  "link": "https://music.xy.dev/",
+  "date": "2026-10-13T17:43:05+00:00",
+  "pop": "▲ 47 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "be9ce576739f",
+  "keep": true,
+  "name": "XY Music Notation",
+  "summary": "为一把十二进制记谱的同构音乐键盘打造的乐谱渲染后端，基于 MuseScore，用自定义符头显示每个音的调性类别。",
+  "why": "为新鲜键盘发明一套记谱法。",
+  "audience": "音乐学习者与开发者",
+  "section": "独立开发/小而美",
+  "tags": [
+   "音频音乐"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "Show HN"
+ },
+ {
+  "title": "OpenCode 2.0",
+  "link": "https://www.producthunt.com/products/opencode",
+  "date": "2026-10-12T20:08:47+00:00",
   "pop": null,
   "source": "Product Hunt",
   "badge": "",
-  "id": "a579bc13fcea",
+  "id": "38291338172c",
   "keep": true,
-  "name": "vibesmonitor.com",
-  "summary": "自称「你所发布一切的运维中心」，用来统一照看你上线的各种东西。",
-  "why": "把「我到底上线了什么」集中到一个面板里。",
-  "audience": "独立开发者、运维",
+  "name": "OpenCode 2.0",
+  "summary": "开源的 AI 编程 agent，主打把写代码这件事交给它。",
+  "why": "开源阵营又添一个写码 agent 选项。",
+  "audience": "开发者",
   "section": "开发者工具",
   "tags": [
-   "运维",
-   "监控",
-   "发布管理"
+   "开源",
+   "AI 编程",
+   "AI Agent"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+  "link": "https://github.com/swimmingbrain/brainotes",
+  "date": "2026-10-11T23:22:29+00:00",
+  "pop": "▲ 35 points",
+  "source": "Show HN",
+  "source_group": "Show HN",
+  "home": "",
+  "thin": false,
+  "badge": "",
+  "id": "231cdb901d72",
+  "keep": true,
+  "name": "BraiNOTES",
+  "summary": "在浏览器标签页里打开讲义 PDF 直接手写批注，无需账号、没有后端，内容不离开浏览器。",
+  "why": "PDF 即页面，全前端手写笔记",
+  "audience": "学生/手写笔记用户",
+  "section": "效率工具",
+  "tags": [
+   "笔记知识",
+   "隐私安全",
+   "浏览器"
   ],
   "platform": [
    "Web"
   ],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "ACK card – 3-4% APY, 0.5-1% cashback, no fees debit card",
-  "link": "https://betalist.com/startups/ack-card?utm_campaign=startup-193045&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T22:00:00+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "de9b322cab15",
-  "keep": true,
-  "name": "ACK card",
-  "summary": "接受任意货币与稳定币的借记卡，全球 0% 外汇加价，余额可享 3-4% APY，消费返现 0.5-1%。",
-  "why": "多币种和稳定币都能直接刷。",
-  "audience": "跨境消费与加密用户",
-  "section": "消费与生活",
-  "tags": [
-   "支付",
-   "稳定币",
-   "借记卡"
-  ],
-  "platform": [
-   "硬件"
-  ],
   "pricing": "免费",
-  "score": 6,
-  "day": "2026-10-14"
+  "score": 7,
+  "day": "2026-10-14",
+  "rank": 9.93
  },
  {
   "title": "t4t5/omdrop-owl",
@@ -573,89 +563,103 @@
   "audience": "非苹果设备用户",
   "section": "效率工具",
   "tags": [
-   "文件传输",
-   "开源",
-   "Shell"
+   "开源"
   ],
   "platform": [
    "CLI"
   ],
   "pricing": "开源",
   "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/t4t5/omdrop-owl"
  },
  {
-  "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
-  "link": "https://sspai.com/post/115400",
-  "date": "2026-10-13T07:00:00+00:00",
-  "pop": null,
-  "source": "少数派",
+  "title": "NVIDIA-Omniverse/usd-brep",
+  "link": "https://github.com/NVIDIA-Omniverse/usd-brep",
+  "date": "2026-10-08T17:27:36Z",
+  "pop": "★ 1262",
+  "image": "https://avatars.githubusercontent.com/u/57824658?v=4",
+  "source": "GitHub",
+  "source_group": "GitHub",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "c5b3c5e28c19",
+  "id": "4bbf12327f6a",
   "keep": true,
-  "name": "",
-  "summary": "一位少数派作者为自己做的精力管理 App，专门面向「P 人」和 ADHD 人群。",
-  "why": "不折腾任务清单，管的是精力。",
-  "audience": "P人、ADHD 人群",
-  "section": "效率工具",
+  "name": "usd-brep",
+  "summary": "NVIDIA Omniverse 的独立 C++/Python 库，做基于 NURBS 的边界表示（BRep）实体建模。",
+  "why": "工业级实体建模接进 USD 生态",
+  "audience": "3D 与图形开发者",
+  "section": "开发者工具",
   "tags": [
-   "精力管理",
-   "ADHD",
-   "个人开发"
+   "开源"
   ],
   "platform": [],
-  "pricing": "未知",
+  "pricing": "开源",
   "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "rank": 9.36,
+  "shot": "https://opengraph.githubassets.com/1/NVIDIA-Omniverse/usd-brep"
  },
  {
-  "title": "GotEmail",
-  "link": "https://www.producthunt.com/products/gotemail",
-  "date": "2026-10-13T06:49:28+00:00",
-  "pop": null,
-  "source": "Product Hunt",
+  "title": "shaongitbd/doory",
+  "link": "https://github.com/shaongitbd/doory",
+  "date": "2026-10-10T00:03:25Z",
+  "pop": "★ 1092",
+  "image": "https://avatars.githubusercontent.com/u/83664154?v=4",
+  "source": "GitHub",
+  "source_group": "GitHub",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "f32f58797a41",
+  "id": "38798b4ae3c7",
   "keep": true,
-  "name": "GotEmail",
-  "summary": "原生 macOS 邮件客户端，支持一键登录验证码，并带 AI Discussion 功能。",
-  "why": "把验证码和 AI 讨论塞进邮箱。",
-  "audience": "Mac 用户",
+  "name": "doory",
+  "summary": "TypeScript 写的开源在线设计工具，定位是 Canva 替代品，官网 doory.art。",
+  "why": "开源版 Canva，可以自己拿去折腾",
+  "audience": "想自托管设计工具的人",
   "section": "效率工具",
   "tags": [
-   "邮件",
-   "Mac",
-   "AI"
+   "设计",
+   "开源"
   ],
   "platform": [
-   "Mac"
+   "Web"
   ],
-  "pricing": "未知",
+  "pricing": "开源",
   "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "rank": 9.32,
+  "shot": "https://opengraph.githubassets.com/1/shaongitbd/doory"
  },
  {
-  "title": "Muse Wonder",
-  "link": "https://www.producthunt.com/products/meta-ai",
-  "date": "2026-10-12T16:59:33+00:00",
-  "pop": null,
-  "source": "Product Hunt",
+  "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+  "link": "https://brickbrag.com/",
+  "date": "2026-10-12T21:03:36+00:00",
+  "pop": "▲ 76 points",
+  "source": "Show HN",
+  "source_group": "Show HN",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "cb9df0a58999",
+  "id": "7bfe3958883c",
   "keep": true,
-  "name": "Muse Wonder",
-  "summary": "Meta 面向个人智能体推出的、其能力最强的模型。",
-  "why": "Meta 亲自下场做个人 agent，值得看看。",
-  "audience": "AI 应用尝鲜者",
-  "section": "AI 原生应用",
+  "name": "Brickbrag",
+  "summary": "跑在浏览器里的多人积木搭建世界，打开网页就能一起搭。",
+  "why": "无需安装，多人在线拼积木",
+  "audience": "积木爱好者、休闲玩家",
+  "section": "独立开发/小而美",
   "tags": [
-   "AI",
-   "智能体"
+   "游戏娱乐"
   ],
-  "platform": [],
+  "platform": [
+   "Web"
+  ],
   "pricing": "未知",
   "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "rank": 9.13
  },
  {
   "title": "Show HN: How Random Are You?",
@@ -671,65 +675,98 @@
   "why": "抽签这件事，人类到底能不能真随机？",
   "audience": "好奇心重的玩家",
   "section": "独立开发/小而美",
-  "tags": [
-   "小实验",
-   "随机"
-  ],
+  "tags": [],
   "platform": [
    "Web"
   ],
   "pricing": "免费",
   "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
-  "title": "FX Market Map – Pre-marked FX zones with institutional data for trading context",
-  "link": "https://betalist.com/startups/fx-market-map?utm_campaign=startup-193102&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T18:00:01+00:00",
-  "pop": null,
-  "source": "BetaList",
+  "title": "Reason",
+  "link": "https://www.producthunt.com/products/dereference-the-100x-ide",
+  "date": "2026-10-04T19:34:54+00:00",
+  "source": "Product Hunt",
+  "source_group": "Product Hunt",
+  "home": "",
+  "thin": true,
   "badge": "",
-  "id": "dfdc67fd2491",
+  "pop": null,
+  "id": "cc49580a0374",
   "keep": true,
-  "name": "FX Market Map",
-  "summary": "为七大主要外汇对预先标注交易区间，并附机构市场数据与简明报告。",
-  "why": "价格还没到，先把地图和背景画好。",
-  "audience": "外汇交易者",
-  "section": "效率工具",
+  "name": "Reason",
+  "summary": "号称最好的编程 Agent，云端或本地都能跑。",
+  "why": "本地与云双选的编码 Agent",
+  "audience": "开发者",
+  "section": "开发者工具",
   "tags": [
-   "外汇",
-   "交易",
-   "数据"
+   "AI 编程",
+   "AI Agent"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "key_points": [],
+  "day": "2026-10-14",
+  "rank": 9.0
+ },
+ {
+  "title": "FizzPoker – No-login Poker with friends directly in your browser",
+  "link": "https://betalist.com/startups/fizzpoker?utm_campaign=startup-193237&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-14T01:05:00+00:00",
+  "source": "BetaList",
+  "source_group": "BetaList",
+  "home": "",
+  "thin": false,
+  "badge": "",
+  "pop": null,
+  "id": "eb84c1ba8965",
+  "keep": true,
+  "name": "FizzPoker",
+  "summary": "浏览器里开一桌德州扑克：建私桌、发链接，2–9 人免注册免下载开打，还能加不同水平的机器人陪练。",
+  "why": "不登录不下载，机器人还能凑桌",
+  "audience": "想和朋友开局打牌的人",
+  "section": "消费与生活",
+  "tags": [
+   "游戏娱乐",
+   "社交"
   ],
   "platform": [
    "Web"
   ],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
+  "pricing": "免费",
+  "score": 8,
+  "day": "2026-10-14",
+  "rank": 9.0
  },
  {
-  "title": "Remocn Studio",
-  "link": "https://www.producthunt.com/products/remocn-studio",
-  "date": "2026-10-05T13:15:43+00:00",
-  "pop": null,
-  "source": "Product Hunt",
+  "title": "Shipfound – Get your product named by ChatGPT, Claude Code, or Codex",
+  "link": "https://betalist.com/startups/shipfound?utm_campaign=startup-192801&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T12:00:00+00:00",
+  "source": "BetaList",
+  "source_group": "BetaList",
+  "home": "",
+  "thin": false,
   "badge": "",
-  "id": "a8e6d6cc779e",
+  "pop": null,
+  "id": "0b0568001787",
   "keep": true,
-  "name": "Remocn Studio",
-  "summary": "不用打开 After Effects，也能做出一支产品发布视频。",
-  "why": "把发布视频的制作门槛直接砍掉。",
-  "audience": "做产品发布的人",
-  "section": "效率工具",
+  "name": "Shipfound",
+  "summary": "把 Claude Code 或 Codex 变成增长工程师：审计站点、修 SEO、生成内容页并提 PR，还能追踪 AI 爬虫是否提到你。",
+  "why": "让 AI 代理直接替你跑增长",
+  "audience": "独立开发者/早期团队",
+  "section": "AI 原生应用",
   "tags": [
-   "视频制作",
-   "产品发布"
+   "AI Agent",
+   "生产力"
   ],
   "platform": [],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
+  "pricing": "订阅",
+  "score": 8,
+  "day": "2026-10-14",
+  "rank": 9.0
  },
  {
   "title": "Show HN: Opensidian",
@@ -747,140 +784,13 @@
   "section": "开发者工具",
   "tags": [
    "开源",
-   "笔记"
+   "笔记知识"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "The Drive AI",
-  "link": "https://www.producthunt.com/products/the-drive-ai-2",
-  "date": "2026-10-13T05:39:15+00:00",
-  "pop": null,
-  "source": "Product Hunt",
-  "badge": "",
-  "id": "2ad4c6f33e71",
-  "keep": true,
-  "name": "The Drive AI",
-  "summary": "一个直接在你文件上干活的 AI 智能体，帮你处理磁盘里的文档任务。",
-  "why": "让 AI 从聊天框走进你的文件系统",
-  "audience": "文档工作者",
-  "section": "AI 原生应用",
-  "tags": [
-   "AI Agent",
-   "文件管理",
-   "效率"
-  ],
-  "platform": [],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "CleanClac – Automate cleaning bookings and track proof, stock, and teams",
-  "link": "https://betalist.com/startups/cleanclac?utm_campaign=startup-182014&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T15:00:02+00:00",
-  "pop": null,
-  "source": "BetaList",
-  "badge": "",
-  "id": "d750dc4b52d6",
-  "keep": true,
-  "name": "CleanClac",
-  "summary": "专为短租民宿做清洁排班的工具：接单自动生成清洁任务，通知保洁并留痕。",
-  "why": "只解决清洁一件事，费率客人全交回 PMS",
-  "audience": "民宿与短租管理者",
-  "section": "效率工具",
-  "tags": [
-   "短租",
-   "排班",
-   "清洁"
-  ],
-  "platform": [
-   "Web",
-   "iOS",
-   "Android"
-  ],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "AdHelm CLI",
-  "link": "https://www.producthunt.com/products/adhelm-cli",
-  "date": "2026-10-12T21:24:56+00:00",
-  "pop": null,
-  "source": "Product Hunt",
-  "badge": "",
-  "id": "f3a863d80c45",
-  "keep": true,
-  "name": "AdHelm CLI",
-  "summary": "一个开源的命令行工具，用来管理广告投放。",
-  "why": "把广告后台搬进终端里管",
-  "audience": "广告投放与增长团队",
-  "section": "开发者工具",
-  "tags": [
-   "开源",
-   "广告",
-   "CLI"
-  ],
-  "platform": [
-   "CLI"
-  ],
-  "pricing": "开源",
-  "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "Servor",
-  "link": "https://www.producthunt.com/products/servor",
-  "date": "2026-10-12T10:15:09+00:00",
-  "pop": null,
-  "source": "Product Hunt",
-  "badge": "",
-  "id": "e806245119cc",
-  "keep": true,
-  "name": "Servor",
-  "summary": "一个控制台，就能运行并监控你所有的服务器。",
-  "why": "多台服务器收进同一块面板。",
-  "audience": "运维与开发者",
-  "section": "开发者工具",
-  "tags": [
-   "服务器",
-   "监控",
-   "运维"
-  ],
-  "platform": [
-   "Web"
-  ],
-  "pricing": "未知",
-  "score": 6,
-  "day": "2026-10-14"
- },
- {
-  "title": "MausBot",
-  "link": "https://www.producthunt.com/products/mausbot",
-  "date": "2026-10-06T12:05:48+00:00",
-  "pop": null,
-  "source": "Product Hunt",
-  "badge": "",
-  "id": "65ecb21bdecb",
-  "keep": true,
-  "name": "MausBot",
-  "summary": "开源 Grok 机器人，支持免费、本地化的对话体验。",
-  "why": "开源加本地跑，聊天机器人自己说了算。",
-  "audience": "AI 爱好者与开发者",
-  "section": "AI 原生应用",
-  "tags": [
-   "聊天机器人",
-   "开源",
-   "本地部署"
-  ],
-  "platform": [],
-  "pricing": "开源",
-  "score": 6,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "Show HN"
  },
  {
   "title": "storytold/craft-launcher",
@@ -898,63 +808,404 @@
   "audience": "Craft 用户与折腾党",
   "section": "效率工具",
   "tags": [
-   "启动器",
-   "Rust",
    "开源"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 5,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/storytold/craft-launcher"
  },
  {
-  "title": "Engado – Connect with verified websites for value-for-value collaborations",
-  "link": "https://betalist.com/startups/engado?utm_campaign=startup-192976&utm_medium=atom&utm_source=newsfeed",
-  "date": "2026-10-13T13:20:00+00:00",
+  "title": "Seply Speaker Split – Split mixed recordings into time-aligned tracks for each speaker",
+  "link": "https://betalist.com/startups/seply-speaker-split?utm_campaign=startup-185458&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-14T00:00:00+00:00",
   "pop": null,
   "source": "BetaList",
   "badge": "",
-  "id": "f38295e03f3b",
+  "id": "59b63c675b2c",
   "keep": true,
-  "name": "Engado",
-  "summary": "把真实且已验证所有权的网站与相关合作伙伴对接，做外链、客座文章等价值互换合作。",
-  "why": "每个成员都要证明自己是网站主人。",
-  "audience": "做 SEO 的站长",
+  "name": "Seply Speaker Split",
+  "summary": "把混合录音按说话人拆成时间对齐的独立音轨，并输出带说话人标签的转录文本。",
+  "why": "重叠说话也有高级模式，还免安装。",
+  "audience": "会议记录、播客剪辑",
   "section": "效率工具",
   "tags": [
-   "SEO",
-   "外链",
-   "匹配"
+   "音频音乐",
+   "沟通协作"
   ],
   "platform": [
    "Web"
   ],
   "pricing": "未知",
-  "score": 5,
-  "day": "2026-10-14"
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
  },
  {
-  "title": "Vincentt",
-  "link": "https://www.producthunt.com/products/vincentt",
-  "date": "2026-10-05T19:49:13+00:00",
+  "title": "Vindeo – Edit short videos with natural language and publish in minutes",
+  "link": "https://betalist.com/startups/vindeo?utm_campaign=startup-193124&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T21:00:00+00:00",
   "pop": null,
-  "source": "Product Hunt",
+  "source": "BetaList",
   "badge": "",
-  "id": "391302446ac4",
+  "id": "429282dfb6f8",
   "keep": true,
-  "name": "Vincentt",
-  "summary": "用相机把想法变成现实的产品，Product Hunt 上仅有一句简介。",
-  "why": "摄像头即创作入口的思路值得一看。",
-  "audience": "创意与视觉创作者",
+  "name": "Vindeo",
+  "summary": "用自然语言描述你的 Reel、TikTok 或 Short，它自动生成初剪、字幕、B-roll、转场与音频，并能写文案、直接发布或排期。",
+  "why": "AI 干重活，时间线仍归你掌控。",
+  "audience": "短视频创作者",
   "section": "AI 原生应用",
   "tags": [
-   "相机",
-   "创意"
+   "视频",
+   "AI 创作"
   ],
   "platform": [],
   "pricing": "未知",
-  "score": 4,
-  "day": "2026-10-14"
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "Anchorlight – Focus your days on what matters, not distractions",
+  "link": "https://betalist.com/startups/anchorlight?utm_campaign=startup-193121&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T19:05:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "4b9d212a905f",
+  "keep": true,
+  "name": "Anchorlight",
+  "summary": "把提醒、日历和每周回顾合在一起，帮你把每一天锚定在真正重要的人和目标上。",
+  "why": "不催你做更多，只问这周什么往前动了。",
+  "audience": "想减少干扰的自我管理者",
+  "section": "效率工具",
+  "tags": [
+   "生产力",
+   "日程时间"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "PodSafe – Enjoy podcasts with your kids without profanity",
+  "link": "https://betalist.com/startups/podsafe?utm_campaign=startup-191221&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T16:05:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "986a6762d2f5",
+  "keep": true,
+  "name": "PodSafe",
+  "summary": "听播客时自动过滤脏话，转录与处理全部在 iPhone 本地完成。",
+  "why": "家长能放心和孩子一起听播客了。",
+  "audience": "有孩子的家长",
+  "section": "消费与生活",
+  "tags": [
+   "音频音乐",
+   "隐私安全"
+  ],
+  "platform": [
+   "iOS"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "Jaah – Delegate engineering work to AI agents with reviews, records, and rules",
+  "link": "https://betalist.com/startups/jaah?utm_campaign=startup-193231&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T12:20:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "feac27400951",
+  "keep": true,
+  "name": "Jaah",
+  "summary": "把工程任务交给 AI 编码代理，同时用评审、审计记录、权限与工作流规则守住流程。",
+  "why": "给编码代理加上护栏和报告。",
+  "audience": "研发团队",
+  "section": "开发者工具",
+  "tags": [
+   "AI Agent",
+   "AI 编程",
+   "沟通协作"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "vibesmonitor.com",
+  "link": "https://www.producthunt.com/products/vibesmonitor",
+  "date": "2026-10-12T18:25:03+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "a579bc13fcea",
+  "keep": true,
+  "name": "vibesmonitor.com",
+  "summary": "自称「你所发布一切的运维中心」，用来统一照看你上线的各种东西。",
+  "why": "把「我到底上线了什么」集中到一个面板里。",
+  "audience": "独立开发者、运维",
+  "section": "开发者工具",
+  "tags": [
+   "开发运维"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "GotEmail",
+  "link": "https://www.producthunt.com/products/gotemail",
+  "date": "2026-10-13T06:49:28+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "f32f58797a41",
+  "keep": true,
+  "name": "GotEmail",
+  "summary": "原生 macOS 邮件客户端，支持一键登录验证码，并带 AI Discussion 功能。",
+  "why": "把验证码和 AI 讨论塞进邮箱。",
+  "audience": "Mac 用户",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "Muse Wonder",
+  "link": "https://www.producthunt.com/products/meta-ai",
+  "date": "2026-10-12T16:59:33+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "cb9df0a58999",
+  "keep": true,
+  "name": "Muse Wonder",
+  "summary": "Meta 面向个人智能体推出的、其能力最强的模型。",
+  "why": "Meta 亲自下场做个人 agent，值得看看。",
+  "audience": "AI 应用尝鲜者",
+  "section": "AI 原生应用",
+  "tags": [],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "Remocn Studio",
+  "link": "https://www.producthunt.com/products/remocn-studio",
+  "date": "2026-10-05T13:15:43+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "a8e6d6cc779e",
+  "keep": true,
+  "name": "Remocn Studio",
+  "summary": "不用打开 After Effects，也能做出一支产品发布视频。",
+  "why": "把发布视频的制作门槛直接砍掉。",
+  "audience": "做产品发布的人",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "The Drive AI",
+  "link": "https://www.producthunt.com/products/the-drive-ai-2",
+  "date": "2026-10-13T05:39:15+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "2ad4c6f33e71",
+  "keep": true,
+  "name": "The Drive AI",
+  "summary": "一个直接在你文件上干活的 AI 智能体，帮你处理磁盘里的文档任务。",
+  "why": "让 AI 从聊天框走进你的文件系统",
+  "audience": "文档工作者",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI Agent"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "AdHelm CLI",
+  "link": "https://www.producthunt.com/products/adhelm-cli",
+  "date": "2026-10-12T21:24:56+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "f3a863d80c45",
+  "keep": true,
+  "name": "AdHelm CLI",
+  "summary": "一个开源的命令行工具，用来管理广告投放。",
+  "why": "把广告后台搬进终端里管",
+  "audience": "广告投放与增长团队",
+  "section": "开发者工具",
+  "tags": [
+   "开源",
+   "终端 CLI"
+  ],
+  "platform": [
+   "CLI"
+  ],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "Servor",
+  "link": "https://www.producthunt.com/products/servor",
+  "date": "2026-10-12T10:15:09+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "e806245119cc",
+  "keep": true,
+  "name": "Servor",
+  "summary": "一个控制台，就能运行并监控你所有的服务器。",
+  "why": "多台服务器收进同一块面板。",
+  "audience": "运维与开发者",
+  "section": "开发者工具",
+  "tags": [
+   "开发运维"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "MausBot",
+  "link": "https://www.producthunt.com/products/mausbot",
+  "date": "2026-10-06T12:05:48+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "65ecb21bdecb",
+  "keep": true,
+  "name": "MausBot",
+  "summary": "开源 Grok 机器人，支持免费、本地化的对话体验。",
+  "why": "开源加本地跑，聊天机器人自己说了算。",
+  "audience": "AI 爱好者与开发者",
+  "section": "AI 原生应用",
+  "tags": [
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
+ },
+ {
+  "title": "PixLate",
+  "link": "https://www.producthunt.com/products/pixlate",
+  "date": "2026-10-14T04:47:06+00:00",
+  "source": "Product Hunt",
+  "source_group": "Product Hunt",
+  "home": "",
+  "thin": true,
+  "badge": "",
+  "pop": null,
+  "id": "83ca483ba557",
+  "keep": true,
+  "name": "PixLate",
+  "summary": "翻译文档的同时，保留原有的图稿与版式。",
+  "why": "译文不再把排版和图片搞乱",
+  "audience": "需要翻译文档的人",
+  "section": "效率工具",
+  "tags": [
+   "生产力"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "key_points": [],
+  "day": "2026-10-14",
+  "rank": 8.0
+ },
+ {
+  "title": "Table Canon: TTRPG | DnD campaign memory",
+  "link": "https://www.producthunt.com/products/table-canon-ttrpg-campaign-memory",
+  "date": "2026-10-07T17:26:27+00:00",
+  "source": "Product Hunt",
+  "source_group": "Product Hunt",
+  "home": "",
+  "thin": true,
+  "badge": "",
+  "pop": null,
+  "id": "9661b29d30b9",
+  "keep": true,
+  "name": "Table Canon",
+  "summary": "给跑团 GM 用的战役记忆工具：自动记录、历史可搜索，还能提供备团灵感。",
+  "why": "跑团党的外置大脑，备团少翻笔记",
+  "audience": "跑团 GM",
+  "section": "消费与生活",
+  "tags": [
+   "笔记知识",
+   "游戏娱乐"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "key_points": [],
+  "day": "2026-10-14",
+  "rank": 8.0
+ },
+ {
+  "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+  "link": "https://sspai.com/post/115400",
+  "date": "2026-10-13T07:00:00+00:00",
+  "pop": null,
+  "source": "少数派",
+  "badge": "",
+  "id": "c5b3c5e28c19",
+  "keep": true,
+  "name": "",
+  "summary": "一位少数派作者为自己做的精力管理 App，专门面向「P 人」和 ADHD 人群。",
+  "why": "不折腾任务清单，管的是精力。",
+  "audience": "P人、ADHD 人群",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "少数派"
  },
  {
   "title": "liseami/CCBaga",
@@ -972,12 +1223,217 @@
   "audience": "Rust 开发者",
   "section": "开发者工具",
   "tags": [
-   "开源",
-   "Rust"
+   "开源"
   ],
   "platform": [],
   "pricing": "开源",
   "score": 4,
-  "day": "2026-10-14"
+  "day": "2026-10-14",
+  "source_group": "GitHub",
+  "shot": "https://opengraph.githubassets.com/1/liseami/CCBaga"
+ },
+ {
+  "title": "ACK card – 3-4% APY, 0.5-1% cashback, no fees debit card",
+  "link": "https://betalist.com/startups/ack-card?utm_campaign=startup-193045&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T22:00:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "de9b322cab15",
+  "keep": true,
+  "name": "ACK card",
+  "summary": "接受任意货币与稳定币的借记卡，全球 0% 外汇加价，余额可享 3-4% APY，消费返现 0.5-1%。",
+  "why": "多币种和稳定币都能直接刷。",
+  "audience": "跨境消费与加密用户",
+  "section": "消费与生活",
+  "tags": [
+   "金融记账"
+  ],
+  "platform": [
+   "硬件"
+  ],
+  "pricing": "免费",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "FX Market Map – Pre-marked FX zones with institutional data for trading context",
+  "link": "https://betalist.com/startups/fx-market-map?utm_campaign=startup-193102&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T18:00:01+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "dfdc67fd2491",
+  "keep": true,
+  "name": "FX Market Map",
+  "summary": "为七大主要外汇对预先标注交易区间，并附机构市场数据与简明报告。",
+  "why": "价格还没到，先把地图和背景画好。",
+  "audience": "外汇交易者",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "CleanClac – Automate cleaning bookings and track proof, stock, and teams",
+  "link": "https://betalist.com/startups/cleanclac?utm_campaign=startup-182014&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T15:00:02+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "d750dc4b52d6",
+  "keep": true,
+  "name": "CleanClac",
+  "summary": "专为短租民宿做清洁排班的工具：接单自动生成清洁任务，通知保洁并留痕。",
+  "why": "只解决清洁一件事，费率客人全交回 PMS",
+  "audience": "民宿与短租管理者",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [
+   "Web",
+   "iOS",
+   "Android"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "RoleFit",
+  "link": "https://www.producthunt.com/products/rolefit",
+  "date": "2026-10-14T05:07:36+00:00",
+  "source": "Product Hunt",
+  "source_group": "Product Hunt",
+  "home": "",
+  "thin": true,
+  "badge": "",
+  "pop": null,
+  "id": "bec6e6c98d77",
+  "keep": true,
+  "name": "RoleFit",
+  "summary": "为每一份求职申请做定制，不用从零开始。",
+  "why": "求职材料一岗一版，省去重写功夫",
+  "audience": "正在求职的人",
+  "section": "效率工具",
+  "tags": [
+   "生产力",
+   "写作"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 5,
+  "key_points": [],
+  "day": "2026-10-14",
+  "rank": 7.0
+ },
+ {
+  "title": "Zenboost – AI agent for B2B marketing diagnosis and recommendations",
+  "link": "https://betalist.com/startups/zenboost?utm_campaign=startup-193326&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-14T04:05:00+00:00",
+  "source": "BetaList",
+  "source_group": "BetaList",
+  "home": "",
+  "thin": false,
+  "badge": "",
+  "pop": null,
+  "id": "931faf87ac7a",
+  "keep": true,
+  "name": "Zenboost",
+  "summary": "一个网址就能扫描官网、LinkedIn、竞品和在 AI 答案引擎中的可见度，给出 B2B 营销诊断、数字成熟度评分与竞品对标。",
+  "why": "一键体检 B2B 营销还附执行路线图",
+  "audience": "B2B 中小企业营销团队",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI Agent",
+   "生产力"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "rank": 7.0
+ },
+ {
+  "title": "Rhinobird – Generate product images, videos, and packaging with AI for ecommerce",
+  "link": "https://betalist.com/startups/rhinobird?utm_campaign=startup-193318&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-14T03:00:00+00:00",
+  "source": "BetaList",
+  "source_group": "BetaList",
+  "home": "",
+  "thin": false,
+  "badge": "",
+  "pop": null,
+  "id": "36a14b77aa2f",
+  "keep": true,
+  "name": "Rhinobird",
+  "summary": "面向跨境电商与品牌的 AI 营销内容平台，生成视频广告、UGC 风格视频、商品图与包装。",
+  "why": "电商卖家的 AI 内容流水线",
+  "audience": "跨境电商卖家",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI 创作",
+   "视频",
+   "图像"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14",
+  "rank": 7.0
+ },
+ {
+  "title": "Engado – Connect with verified websites for value-for-value collaborations",
+  "link": "https://betalist.com/startups/engado?utm_campaign=startup-192976&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T13:20:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "f38295e03f3b",
+  "keep": true,
+  "name": "Engado",
+  "summary": "把真实且已验证所有权的网站与相关合作伙伴对接，做外链、客座文章等价值互换合作。",
+  "why": "每个成员都要证明自己是网站主人。",
+  "audience": "做 SEO 的站长",
+  "section": "效率工具",
+  "tags": [],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 5,
+  "day": "2026-10-14",
+  "source_group": "BetaList"
+ },
+ {
+  "title": "Vincentt",
+  "link": "https://www.producthunt.com/products/vincentt",
+  "date": "2026-10-05T19:49:13+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "391302446ac4",
+  "keep": true,
+  "name": "Vincentt",
+  "summary": "用相机把想法变成现实的产品，Product Hunt 上仅有一句简介。",
+  "why": "摄像头即创作入口的思路值得一看。",
+  "audience": "创意与视觉创作者",
+  "section": "AI 原生应用",
+  "tags": [],
+  "platform": [],
+  "pricing": "未知",
+  "score": 4,
+  "day": "2026-10-14",
+  "source_group": "Product Hunt"
  }
 ]

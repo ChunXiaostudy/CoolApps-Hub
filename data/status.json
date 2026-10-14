@@ -1,0 +1,46 @@
+{
+ "runs": [
+  {
+   "time": "2026-10-14T07:04:44.975308+00:00",
+   "sources": {
+    "Product Hunt": {
+     "fetched": 40,
+     "error": null
+    },
+    "Show HN": {
+     "fetched": 20,
+     "error": null
+    },
+    "GitHub": {
+     "fetched": 20,
+     "error": null
+    },
+    "BetaList": {
+     "fetched": 25,
+     "error": null
+    },
+    "少数派": {
+     "fetched": 10,
+     "error": null
+    },
+    "The Verge": {
+     "fetched": 4,
+     "error": null
+    },
+    "Google News · 新产品": {
+     "fetched": 15,
+     "error": null
+    }
+   }
+  }
+ ],
+ "streak": {
+  "Product Hunt": 0,
+  "Show HN": 0,
+  "GitHub": 0,
+  "BetaList": 0,
+  "少数派": 0,
+  "The Verge": 0,
+  "Google News · 新产品": 0
+ }
+}
