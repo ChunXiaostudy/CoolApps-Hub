@@ -1,0 +1,983 @@
+[
+ {
+  "title": "onehumanbeing/esp32-iphone-agent",
+  "link": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "date": "2026-10-11T19:10:25Z",
+  "pop": "★ 1596",
+  "image": "https://avatars.githubusercontent.com/u/20528382?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "a1097dcd46a9",
+  "keep": true,
+  "name": "esp32-iphone-agent",
+  "summary": "用一块约 7 美元的 ESP32，让 AI 模型以 AirPlay 当眼睛、USB HID 当手，直接操控一台真 iPhone。",
+  "why": "不用 Mac、不开发开发者账号、不越狱。",
+  "audience": "爱折腾的开发者",
+  "section": "硬件与设备",
+  "tags": [
+   "AI Agent",
+   "硬件",
+   "开源"
+  ],
+  "platform": [
+   "硬件"
+  ],
+  "pricing": "开源",
+  "score": 9,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+  "link": "https://pulseos.finance",
+  "date": "2026-10-13T23:13:23+00:00",
+  "pop": "▲ 55 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "6bfaaf873eeb",
+  "keep": true,
+  "name": "Pulse Local",
+  "summary": "Mac 上的记账应用，AI 模型跑在本机，回答你的消费问题，本地模式无需账号。",
+  "why": "账本和提问都留在机器上，还不发分析和崩溃日志。",
+  "audience": "注重隐私的 Mac 用户",
+  "section": "AI 原生应用",
+  "tags": [
+   "本地AI",
+   "记账",
+   "隐私"
+  ],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "未知",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "OpenCode 2.0",
+  "link": "https://www.producthunt.com/products/opencode",
+  "date": "2026-10-12T20:08:47+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "38291338172c",
+  "keep": true,
+  "name": "OpenCode 2.0",
+  "summary": "开源的 AI 编程 agent，主打把写代码这件事交给它。",
+  "why": "开源阵营又添一个写码 agent 选项。",
+  "audience": "开发者",
+  "section": "开发者工具",
+  "tags": [
+   "开源",
+   "AI编程",
+   "Agent"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "ARahim3/DigUp",
+  "link": "https://github.com/ARahim3/DigUp",
+  "date": "2026-10-08T20:37:51Z",
+  "pop": "★ 2542",
+  "image": "https://avatars.githubusercontent.com/u/41390319?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "015cdf3f396e",
+  "keep": true,
+  "name": "DigUp",
+  "summary": "按文件内容搜索你的 Mac：照片、PDF、录音、视频和代码，全程在设备本地完成，基于 Google DeepMind 的 EmbeddingGemma 2。",
+  "why": "本地嵌入模型，按内容找文件。",
+  "audience": "Mac 用户",
+  "section": "效率工具",
+  "tags": [
+   "本地搜索",
+   "AI",
+   "Mac"
+  ],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+  "link": "https://github.com/LargeModGames/spotatui",
+  "date": "2026-10-13T11:32:00+00:00",
+  "pop": "▲ 50 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "4a4d21f2bb0d",
+  "keep": true,
+  "name": "Spotatui",
+  "summary": "基于终端的 Spotify 客户端，绕开 Web API 的各种限流与接口下线问题。",
+  "why": "作者接手无人维护的老项目，硬刚官方限流",
+  "audience": "终端重度用户",
+  "section": "独立开发/小而美",
+  "tags": [
+   "开源",
+   "音乐",
+   "TUI"
+  ],
+  "platform": [
+   "CLI"
+  ],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "noahdunnagan/fsearch",
+  "link": "https://github.com/noahdunnagan/fsearch",
+  "date": "2026-10-08T17:50:33Z",
+  "pop": "★ 2032",
+  "image": "https://avatars.githubusercontent.com/u/119903110?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "a3a81526ebff",
+  "keep": true,
+  "name": "fsearch",
+  "summary": "macOS 全盘文件搜索工具：模糊匹配、容错拼写，还能检索文件内容，800 万文件约 1 毫秒。",
+  "why": "全盘搜索做到毫秒级，还是用 Rust 写的",
+  "audience": "macOS 效率党",
+  "section": "效率工具",
+  "tags": [
+   "搜索",
+   "开源",
+   "Rust"
+  ],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+  "link": "https://github.com/bherbruck/solidcraft",
+  "date": "2026-10-13T00:11:04+00:00",
+  "pop": "▲ 133 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "68185f838dbf",
+  "keep": true,
+  "name": "SolidCraft",
+  "summary": "用 Rust 写的开源参数化 CAD，并带有 MCP 支持。",
+  "why": "CAD 撞上 MCP，可被 AI 调用。",
+  "audience": "工程师与开发者",
+  "section": "开发者工具",
+  "tags": [
+   "CAD",
+   "Rust",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 8,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "wheresryan22/anatomy",
+  "link": "https://github.com/wheresryan22/anatomy",
+  "date": "2026-10-08T10:12:49Z",
+  "pop": "★ 8377",
+  "image": "https://avatars.githubusercontent.com/u/96392276?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "673796e09e73",
+  "keep": true,
+  "name": "wheresryan22/anatomy",
+  "summary": "一个 agent skill，能画出真实机器和复杂系统的等距交互插画，输出精致 SVG。",
+  "why": "复杂系统瞬间变得能看懂，还能加 WebGL 和 3D 效果。",
+  "audience": "开发者、技术讲师",
+  "section": "开发者工具",
+  "tags": [
+   "SVG",
+   "插画",
+   "Agent Skill"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Seply Speaker Split – Split mixed recordings into time-aligned tracks for each speaker",
+  "link": "https://betalist.com/startups/seply-speaker-split?utm_campaign=startup-185458&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-14T00:00:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "59b63c675b2c",
+  "keep": true,
+  "name": "Seply Speaker Split",
+  "summary": "把混合录音按说话人拆成时间对齐的独立音轨，并输出带说话人标签的转录文本。",
+  "why": "重叠说话也有高级模式，还免安装。",
+  "audience": "会议记录、播客剪辑",
+  "section": "效率工具",
+  "tags": [
+   "音频分离",
+   "转录",
+   "会议"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+  "link": "https://parsimony.lasu.dev/",
+  "date": "2026-10-13T19:50:31+00:00",
+  "pop": "▲ 50 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "0a248ec43515",
+  "keep": true,
+  "name": "Parsimony",
+  "summary": "开源的 AI 写码量基准：统计模型提交补丁里的语法单元，衡量它多写了多少多余代码。",
+  "why": "只比解题率不够，代码写得越臃肿越难维护。",
+  "audience": "AI 编程工具开发者",
+  "section": "开发者工具",
+  "tags": [
+   "基准测试",
+   "代码质量",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "mhtsec/ARTEX",
+  "link": "https://github.com/mhtsec/ARTEX",
+  "date": "2026-10-08T05:33:06Z",
+  "pop": "★ 3907",
+  "image": "https://avatars.githubusercontent.com/u/83952182?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "152a78a64224",
+  "keep": true,
+  "name": "ARTEX",
+  "summary": "Go 写的 AI 自主渗透测试系统，百度“agent+”攻防挑战赛冠军项目。",
+  "why": "让 AI 自己打攻防，拿了比赛第一。",
+  "audience": "安全研究与红队",
+  "section": "开发者工具",
+  "tags": [
+   "安全",
+   "Agent",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+  "link": "https://guitoro.com/",
+  "date": "2026-10-13T19:11:48+00:00",
+  "pop": "▲ 283 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "01b0fbae59fa",
+  "keep": true,
+  "name": "Guitoro",
+  "summary": "浏览器里的虚拟吉他，用键盘、鼠标或触屏扫弦，音色来自真实乐器录音。",
+  "why": "不用下载注册，扫弦手感可以慢慢练。",
+  "audience": "吉他初学者与练琴人",
+  "section": "消费与生活",
+  "tags": [
+   "音乐",
+   "浏览器",
+   "免费"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "免费",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Vindeo – Edit short videos with natural language and publish in minutes",
+  "link": "https://betalist.com/startups/vindeo?utm_campaign=startup-193124&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T21:00:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "429282dfb6f8",
+  "keep": true,
+  "name": "Vindeo",
+  "summary": "用自然语言描述你的 Reel、TikTok 或 Short，它自动生成初剪、字幕、B-roll、转场与音频，并能写文案、直接发布或排期。",
+  "why": "AI 干重活，时间线仍归你掌控。",
+  "audience": "短视频创作者",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI视频",
+   "短视频",
+   "内容创作"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: XY Music Notation",
+  "link": "https://music.xy.dev/",
+  "date": "2026-10-13T17:43:05+00:00",
+  "pop": "▲ 47 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "be9ce576739f",
+  "keep": true,
+  "name": "XY Music Notation",
+  "summary": "为一把十二进制记谱的同构音乐键盘打造的乐谱渲染后端，基于 MuseScore，用自定义符头显示每个音的调性类别。",
+  "why": "为新鲜键盘发明一套记谱法。",
+  "audience": "音乐学习者与开发者",
+  "section": "独立开发/小而美",
+  "tags": [
+   "音乐",
+   "记谱法",
+   "MuseScore"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Anchorlight – Focus your days on what matters, not distractions",
+  "link": "https://betalist.com/startups/anchorlight?utm_campaign=startup-193121&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T19:05:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "4b9d212a905f",
+  "keep": true,
+  "name": "Anchorlight",
+  "summary": "把提醒、日历和每周回顾合在一起，帮你把每一天锚定在真正重要的人和目标上。",
+  "why": "不催你做更多，只问这周什么往前动了。",
+  "audience": "想减少干扰的自我管理者",
+  "section": "效率工具",
+  "tags": [
+   "专注",
+   "目标管理",
+   "日历"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "PodSafe – Enjoy podcasts with your kids without profanity",
+  "link": "https://betalist.com/startups/podsafe?utm_campaign=startup-191221&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T16:05:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "986a6762d2f5",
+  "keep": true,
+  "name": "PodSafe",
+  "summary": "听播客时自动过滤脏话，转录与处理全部在 iPhone 本地完成。",
+  "why": "家长能放心和孩子一起听播客了。",
+  "audience": "有孩子的家长",
+  "section": "消费与生活",
+  "tags": [
+   "播客",
+   "内容过滤",
+   "隐私"
+  ],
+  "platform": [
+   "iOS"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+  "link": "https://pdftomp3.com/connect-ai/",
+  "date": "2026-10-13T10:08:34+00:00",
+  "pop": "▲ 159 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "d4771f1d949e",
+  "keep": true,
+  "name": "pdftomp3 connect-ai",
+  "summary": "用你的 OpenAI 订阅把 PDF 变成有声书。",
+  "why": "把手头订阅直接改造成听书流水线",
+  "audience": "学生与通勤听书党",
+  "section": "效率工具",
+  "tags": [
+   "TTS",
+   "有声书",
+   "OpenAI"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "trhhubsd/ARTEXX",
+  "link": "https://github.com/trhhubsd/ARTEXX",
+  "date": "2026-10-08T20:35:22Z",
+  "pop": "★ 1207",
+  "image": "https://avatars.githubusercontent.com/u/91248508?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "aa9d8407021a",
+  "keep": true,
+  "name": "ARTEXX",
+  "summary": "AI 自主渗透测试系统，百度「agent+」攻防挑战赛冠军项目。",
+  "why": "让 AI 自己去打攻防。",
+  "audience": "安全研究者",
+  "section": "AI 原生应用",
+  "tags": [
+   "安全",
+   "AI Agent",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Jaah – Delegate engineering work to AI agents with reviews, records, and rules",
+  "link": "https://betalist.com/startups/jaah?utm_campaign=startup-193231&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T12:20:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "feac27400951",
+  "keep": true,
+  "name": "Jaah",
+  "summary": "把工程任务交给 AI 编码代理，同时用评审、审计记录、权限与工作流规则守住流程。",
+  "why": "给编码代理加上护栏和报告。",
+  "audience": "研发团队",
+  "section": "开发者工具",
+  "tags": [
+   "AI Agent",
+   "代码评审",
+   "协作"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+  "link": "https://github.com/andrewfader/blokkily",
+  "date": "2026-10-12T23:21:12+00:00",
+  "pop": "▲ 83 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "8a465f85258e",
+  "keep": true,
+  "name": "blokkily",
+  "summary": "一款以 pattern 优先的实验性 DAW，并支持 MCP。",
+  "why": "音乐制作工具接上 MCP，玩法很新鲜。",
+  "audience": "音乐制作人与开发者",
+  "section": "开发者工具",
+  "tags": [
+   "DAW",
+   "MCP",
+   "实验性"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 7,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "vibesmonitor.com",
+  "link": "https://www.producthunt.com/products/vibesmonitor",
+  "date": "2026-10-12T18:25:03+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "a579bc13fcea",
+  "keep": true,
+  "name": "vibesmonitor.com",
+  "summary": "自称「你所发布一切的运维中心」，用来统一照看你上线的各种东西。",
+  "why": "把「我到底上线了什么」集中到一个面板里。",
+  "audience": "独立开发者、运维",
+  "section": "开发者工具",
+  "tags": [
+   "运维",
+   "监控",
+   "发布管理"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "ACK card – 3-4% APY, 0.5-1% cashback, no fees debit card",
+  "link": "https://betalist.com/startups/ack-card?utm_campaign=startup-193045&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T22:00:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "de9b322cab15",
+  "keep": true,
+  "name": "ACK card",
+  "summary": "接受任意货币与稳定币的借记卡，全球 0% 外汇加价，余额可享 3-4% APY，消费返现 0.5-1%。",
+  "why": "多币种和稳定币都能直接刷。",
+  "audience": "跨境消费与加密用户",
+  "section": "消费与生活",
+  "tags": [
+   "支付",
+   "稳定币",
+   "借记卡"
+  ],
+  "platform": [
+   "硬件"
+  ],
+  "pricing": "免费",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "t4t5/omdrop-owl",
+  "link": "https://github.com/t4t5/omdrop-owl",
+  "date": "2026-10-08T06:38:33Z",
+  "pop": "★ 2595",
+  "image": "https://avatars.githubusercontent.com/u/2598660?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "4a527b4a373c",
+  "keep": true,
+  "name": "omdrop-owl",
+  "summary": "一个用 Shell 写的开源项目，想让非 Apple 设备也能拥有 AirDrop 式的传输体验。",
+  "why": "把 AirDrop 的便利搬出苹果生态。",
+  "audience": "非苹果设备用户",
+  "section": "效率工具",
+  "tags": [
+   "文件传输",
+   "开源",
+   "Shell"
+  ],
+  "platform": [
+   "CLI"
+  ],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+  "link": "https://sspai.com/post/115400",
+  "date": "2026-10-13T07:00:00+00:00",
+  "pop": null,
+  "source": "少数派",
+  "badge": "",
+  "id": "c5b3c5e28c19",
+  "keep": true,
+  "name": "",
+  "summary": "一位少数派作者为自己做的精力管理 App，专门面向「P 人」和 ADHD 人群。",
+  "why": "不折腾任务清单，管的是精力。",
+  "audience": "P人、ADHD 人群",
+  "section": "效率工具",
+  "tags": [
+   "精力管理",
+   "ADHD",
+   "个人开发"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "GotEmail",
+  "link": "https://www.producthunt.com/products/gotemail",
+  "date": "2026-10-13T06:49:28+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "f32f58797a41",
+  "keep": true,
+  "name": "GotEmail",
+  "summary": "原生 macOS 邮件客户端，支持一键登录验证码，并带 AI Discussion 功能。",
+  "why": "把验证码和 AI 讨论塞进邮箱。",
+  "audience": "Mac 用户",
+  "section": "效率工具",
+  "tags": [
+   "邮件",
+   "Mac",
+   "AI"
+  ],
+  "platform": [
+   "Mac"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Muse Wonder",
+  "link": "https://www.producthunt.com/products/meta-ai",
+  "date": "2026-10-12T16:59:33+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "cb9df0a58999",
+  "keep": true,
+  "name": "Muse Wonder",
+  "summary": "Meta 面向个人智能体推出的、其能力最强的模型。",
+  "why": "Meta 亲自下场做个人 agent，值得看看。",
+  "audience": "AI 应用尝鲜者",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI",
+   "智能体"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: How Random Are You?",
+  "link": "https://lab.specr.net/rigged-draw/",
+  "date": "2026-10-13T16:57:57+00:00",
+  "pop": "▲ 70 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "186670dc3300",
+  "keep": true,
+  "name": "How Random Are You?",
+  "summary": "一个在网页上测一测“你有多随机”的小实验。",
+  "why": "抽签这件事，人类到底能不能真随机？",
+  "audience": "好奇心重的玩家",
+  "section": "独立开发/小而美",
+  "tags": [
+   "小实验",
+   "随机"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "免费",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "FX Market Map – Pre-marked FX zones with institutional data for trading context",
+  "link": "https://betalist.com/startups/fx-market-map?utm_campaign=startup-193102&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T18:00:01+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "dfdc67fd2491",
+  "keep": true,
+  "name": "FX Market Map",
+  "summary": "为七大主要外汇对预先标注交易区间，并附机构市场数据与简明报告。",
+  "why": "价格还没到，先把地图和背景画好。",
+  "audience": "外汇交易者",
+  "section": "效率工具",
+  "tags": [
+   "外汇",
+   "交易",
+   "数据"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Remocn Studio",
+  "link": "https://www.producthunt.com/products/remocn-studio",
+  "date": "2026-10-05T13:15:43+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "a8e6d6cc779e",
+  "keep": true,
+  "name": "Remocn Studio",
+  "summary": "不用打开 After Effects，也能做出一支产品发布视频。",
+  "why": "把发布视频的制作门槛直接砍掉。",
+  "audience": "做产品发布的人",
+  "section": "效率工具",
+  "tags": [
+   "视频制作",
+   "产品发布"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Show HN: Opensidian",
+  "link": "https://opensidian.org/",
+  "date": "2026-10-13T12:00:00+00:00",
+  "pop": "▲ 39 points",
+  "source": "Show HN",
+  "badge": "",
+  "id": "e9bf500cfabd",
+  "keep": true,
+  "name": "Opensidian",
+  "summary": "Show HN 上登场的 Opensidian，上线即收获 39 点与 40 条讨论。",
+  "why": "开源笔记方向又有新玩家冒头。",
+  "audience": "笔记工具爱好者",
+  "section": "开发者工具",
+  "tags": [
+   "开源",
+   "笔记"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "The Drive AI",
+  "link": "https://www.producthunt.com/products/the-drive-ai-2",
+  "date": "2026-10-13T05:39:15+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "2ad4c6f33e71",
+  "keep": true,
+  "name": "The Drive AI",
+  "summary": "一个直接在你文件上干活的 AI 智能体，帮你处理磁盘里的文档任务。",
+  "why": "让 AI 从聊天框走进你的文件系统",
+  "audience": "文档工作者",
+  "section": "AI 原生应用",
+  "tags": [
+   "AI Agent",
+   "文件管理",
+   "效率"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "CleanClac – Automate cleaning bookings and track proof, stock, and teams",
+  "link": "https://betalist.com/startups/cleanclac?utm_campaign=startup-182014&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T15:00:02+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "d750dc4b52d6",
+  "keep": true,
+  "name": "CleanClac",
+  "summary": "专为短租民宿做清洁排班的工具：接单自动生成清洁任务，通知保洁并留痕。",
+  "why": "只解决清洁一件事，费率客人全交回 PMS",
+  "audience": "民宿与短租管理者",
+  "section": "效率工具",
+  "tags": [
+   "短租",
+   "排班",
+   "清洁"
+  ],
+  "platform": [
+   "Web",
+   "iOS",
+   "Android"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "AdHelm CLI",
+  "link": "https://www.producthunt.com/products/adhelm-cli",
+  "date": "2026-10-12T21:24:56+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "f3a863d80c45",
+  "keep": true,
+  "name": "AdHelm CLI",
+  "summary": "一个开源的命令行工具，用来管理广告投放。",
+  "why": "把广告后台搬进终端里管",
+  "audience": "广告投放与增长团队",
+  "section": "开发者工具",
+  "tags": [
+   "开源",
+   "广告",
+   "CLI"
+  ],
+  "platform": [
+   "CLI"
+  ],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Servor",
+  "link": "https://www.producthunt.com/products/servor",
+  "date": "2026-10-12T10:15:09+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "e806245119cc",
+  "keep": true,
+  "name": "Servor",
+  "summary": "一个控制台，就能运行并监控你所有的服务器。",
+  "why": "多台服务器收进同一块面板。",
+  "audience": "运维与开发者",
+  "section": "开发者工具",
+  "tags": [
+   "服务器",
+   "监控",
+   "运维"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "MausBot",
+  "link": "https://www.producthunt.com/products/mausbot",
+  "date": "2026-10-06T12:05:48+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "65ecb21bdecb",
+  "keep": true,
+  "name": "MausBot",
+  "summary": "开源 Grok 机器人，支持免费、本地化的对话体验。",
+  "why": "开源加本地跑，聊天机器人自己说了算。",
+  "audience": "AI 爱好者与开发者",
+  "section": "AI 原生应用",
+  "tags": [
+   "聊天机器人",
+   "开源",
+   "本地部署"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 6,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "storytold/craft-launcher",
+  "link": "https://github.com/storytold/craft-launcher",
+  "date": "2026-10-09T23:21:59Z",
+  "pop": "★ 2343",
+  "image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "ce0f78441a09",
+  "keep": true,
+  "name": "craft-launcher",
+  "summary": "用 Rust 写的 Craft 应用启动器，代码在 GitHub 上开源。",
+  "why": "Rust 写的轻量启动器，开源可折腾。",
+  "audience": "Craft 用户与折腾党",
+  "section": "效率工具",
+  "tags": [
+   "启动器",
+   "Rust",
+   "开源"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 5,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Engado – Connect with verified websites for value-for-value collaborations",
+  "link": "https://betalist.com/startups/engado?utm_campaign=startup-192976&utm_medium=atom&utm_source=newsfeed",
+  "date": "2026-10-13T13:20:00+00:00",
+  "pop": null,
+  "source": "BetaList",
+  "badge": "",
+  "id": "f38295e03f3b",
+  "keep": true,
+  "name": "Engado",
+  "summary": "把真实且已验证所有权的网站与相关合作伙伴对接，做外链、客座文章等价值互换合作。",
+  "why": "每个成员都要证明自己是网站主人。",
+  "audience": "做 SEO 的站长",
+  "section": "效率工具",
+  "tags": [
+   "SEO",
+   "外链",
+   "匹配"
+  ],
+  "platform": [
+   "Web"
+  ],
+  "pricing": "未知",
+  "score": 5,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "Vincentt",
+  "link": "https://www.producthunt.com/products/vincentt",
+  "date": "2026-10-05T19:49:13+00:00",
+  "pop": null,
+  "source": "Product Hunt",
+  "badge": "",
+  "id": "391302446ac4",
+  "keep": true,
+  "name": "Vincentt",
+  "summary": "用相机把想法变成现实的产品，Product Hunt 上仅有一句简介。",
+  "why": "摄像头即创作入口的思路值得一看。",
+  "audience": "创意与视觉创作者",
+  "section": "AI 原生应用",
+  "tags": [
+   "相机",
+   "创意"
+  ],
+  "platform": [],
+  "pricing": "未知",
+  "score": 4,
+  "day": "2026-10-14"
+ },
+ {
+  "title": "liseami/CCBaga",
+  "link": "https://github.com/liseami/CCBaga",
+  "date": "2026-10-11T03:47:06Z",
+  "pop": "★ 2080",
+  "image": "https://avatars.githubusercontent.com/u/51239614?v=4",
+  "source": "GitHub",
+  "badge": "",
+  "id": "241150659652",
+  "keep": true,
+  "name": "liseami/CCBaga",
+  "summary": "GitHub 上一个用 Rust 写的项目 CCBaga。",
+  "why": "Rust 项目，具体玩法待挖。",
+  "audience": "Rust 开发者",
+  "section": "开发者工具",
+  "tags": [
+   "开源",
+   "Rust"
+  ],
+  "platform": [],
+  "pricing": "开源",
+  "score": 4,
+  "day": "2026-10-14"
+ }
+]
