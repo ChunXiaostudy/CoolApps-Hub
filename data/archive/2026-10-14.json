@@ -56,7 +56,13 @@
 "pricing": "未知",
 "score": 9,
 "day": "2026-10-14",
-"rank": 12.24
+"rank": 12.24,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/atticus"
+}
+]
 },
 {
 "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
