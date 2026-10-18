@@ -538,7 +538,13 @@
 "pricing": "未知",
 "score": 6,
 "day": "2026-10-16",
-"rank": 9.44
+"rank": 9.44,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/unfenced"
+}
+]
 },
 {
 "title": "CoolkHz/gptibo",
@@ -2405,6 +2411,10 @@
 {
 "source": "砍柴网",
 "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzbmNHV3J2bnA4TGZvWEd4ZTJvZ09IMHl1REsyT2RUMGN3bWhITTYyVHF3ampyN2lWWksxRTVxX2Z3RGxRcEstenZBN2lRbkFz?oc=5"
+},
+{
+"source": "搜狐网",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUxWbjJiRHgxTmJNMWZCMjJRT0ZuX0MyZmtJclJ4ay1oSHBOb1NzZU1kQzU0U3VnMXRFSGxxcVQ2Xy12SVpkbDg2OWNYZmVBZ2t2Ym1Mbm1ZeXlxRk5IWTBoSGcta3FGckdZaEFlWTdUMUdVUlJvU1RKWDhXYTc4OXR2QlRyamxEaEI4?oc=5"
 }
 ]
 }
