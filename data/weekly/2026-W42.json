@@ -1,9 +1,9 @@
 {
  "week": "2026-W42",
  "range": "2026-10-12 ~ 2026-10-18",
- "partial": true,
- "generated": "2026-10-14T07:12:22.840921+00:00",
- "summary": "AI 原生和\"本地\"这周缠得很紧。Mana 的作者称用 Opus 5.5、8 个提示词、3 小时就做出完整的 Figma 克隆，几乎看不出差别[3]。Atticus 按住 Control-Option-Space 说话，简单指令本地秒办，复杂任务才走 Claude -p，无需 API Key[2]。Pulse Local 把记账 AI 跑在本机，本地模式无需账号[9]。\n\n效率工具这边，本地也成了默认姿势。DigUp 基于 EmbeddingGemma 2，按内容搜索 Mac 上的照片、PDF、录音、视频和代码，全程在设备本地完成[4]。BraiNOTES 让讲义 PDF 直接在浏览器标签页手写批注，无需账号、没有后端，内容不离开浏览器[20]。fsearch 把 macOS 全盘搜索做到模糊匹配、容错拼写，还能检索内容，800 万文件约 1 毫秒[6]。\n\n硬件方向的乐趣是\"折腾自由\"。esp32-iphone-agent 用约 7 美元的 ESP32，让 AI 以 AirPlay 当眼睛、USB HID 当手操控真 iPhone，不用 Mac、开发者账号和越狱[1]。photo-frame-dashboard 给被锁死的 Android 智能相框塞进 ADB、root、备份和自定义应用[15]。ps2-web-recomp 把 PS2 游戏静态重编译成 WebAssembly 直接在浏览器运行[5]；d2r-mobile 让 iPhone、iPad、Mac 原生跑自备的 Switch 版《暗黑破坏神 II：狱火重生》[7]。\n\n开发者工具里 MCP 很抢眼：Rust 写的开源参数化 CAD SolidCraft 带 MCP 支持，可被 AI 调用[8]；DAW blokkily 也支持 MCP[16]；anatomy 作为 agent skill 能画出真实机器和复杂系统的等距交互插画[11]。Go 写的 AI 自主渗透测试系统 ARTEX 是百度\"agent+\"攻防挑战赛冠军[12]，OpenCode 2.0 是主打把写代码交给它的开源编程 agent[19]。Parsimony 则统计模型补丁里的语法单元，衡量它多写了多少多余代码[17]。\n\n剩下的是些小而美的乐趣。Spotatui 是基于终端的 Spotify 客户端，接手无人维护的老项目，绕开 Web API 的限流与接口下线[10]；XY Music Notation 为十二进制记谱的同构音乐键盘做乐谱渲染后端，基于 MuseScore，用自定义符头显示每个音的调性类别[18]。Guitoro 是浏览器里的虚拟吉他，音色来自真实乐器录音[13]；pdftomp3 connect-ai 能把 PDF 变成有声书[14]。",
+ "partial": false,
+ "generated": "2026-10-19T05:58:39.686457+00:00",
+ "summary": "这周硬件和嵌入式小玩意儿特别抢眼。有人用一块约 7 美元的 ESP32，让 AI 模型以 AirPlay 当眼睛、USB HID 当手，直接操控真 iPhone，不用 Mac、不开发开发者账号、不越狱[1]；另一头，开源 ESP32 模拟器让固件直接在浏览器里跑，不插真板子也能折腾、测试、跑 CI[16]。买硬件之前，还能先在网页上感受本地大模型的运行速度，判断要不要配那台机器[7]。\n\n本地优先的 AI 应用也冒出一批。macOS 上按住 Control-Option-Space 说话的语音助手，简单指令本地秒办，复杂任务走 Claude -p，无需 API Key[2]；部署在自己 Cloudflare 账号里的个人助理，聊天、记忆、任务、笔记、定时提醒一条 npx 命令搞定，自托管、单用户、无遥测[13]；Mac 记账应用把模型跑在本机，账本和提问都留在机器上[19]。Mana 的作者则称用 Opus 5.5、8 个提示词、3 小时做出功能完整的 Figma 克隆，几乎看不出差别[3]。\n\n搜索被两把工具重新定义：DigUp 按文件内容搜索 Mac 上的照片、PDF、录音、视频和代码，全程在设备本地完成，基于 Google DeepMind 的 EmbeddingGemma 2[4]；fsearch 做全盘搜索，模糊匹配、容错拼写、还能检索内容，800 万文件约 1 毫秒，用 Rust 写的[6]。\n\n开发者工具这边，AI agent 的存在感越来越强。git-ai 用 Go 写，干脆为 agent 重新设计 Git[11]；eleven 是 agent 优先的逆向工程工具，任何 ACP agent 都能在你身旁读取、重命名和修补二进制、Android 应用与 GPU kernel[17]；SolidCraft 是 Rust 写的开源参数化 CAD，带 MCP 支持，可被 AI 调用[14]。handwired 把普通 JavaScript 代码变成神经网络的 TypeScript 项目[12]。CoScreen 被 Datadog 关停后，原团队四人做了免费开源结对编程工具 Petal[8]；还有项目宣称要重写并开源全世界的软件[10]。\n\n最后是游戏与一点浪漫。ps2-web-recomp 把 PS2 游戏静态重编译为 WebAssembly，不靠模拟器直接在浏览器里跑[5]；d2r-mobile 让 iPhone、iPad、Mac 原生运行自备的 Switch 版《暗黑破坏神 II：狱火重生》，支持触控、60 帧与新终局模式[9]；ShadowOfTheColossus-PC 把《旺达与巨像》PS4 版原生移植到 Windows，C++ 代码全公开[15]。Spotatui 是基于终端的 Spotify 客户端，绕开 Web API 限流[20]；Museum of Ages 用代码搭了一座达·芬奇 3D 博物馆，17 个站点免费参观[18]。",
  "items": [
   {
    "title": "esp32-iphone-agent",
@@ -36,13 +36,63 @@
    "source": "GitHub"
   },
   {
+   "title": "Llmspeed",
+   "link": "https://llmspeed.dev/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Petal",
+   "link": "https://petal.live/",
+   "source": "Show HN"
+  },
+  {
    "title": "d2r-mobile",
    "link": "https://github.com/jhaizhou-ops/d2r-mobile",
    "source": "GitHub"
   },
   {
+   "title": "HeyPuter/everything",
+   "link": "https://github.com/HeyPuter/everything",
+   "source": "GitHub"
+  },
+  {
+   "title": "git-ai",
+   "link": "https://github.com/feder-cr/git-ai",
+   "source": "GitHub"
+  },
+  {
+   "title": "handwired",
+   "link": "https://github.com/chenglou/handwired",
+   "source": "GitHub"
+  },
+  {
+   "title": "Talorys",
+   "link": "https://github.com/rociiu/talorys",
+   "source": "GitHub"
+  },
+  {
    "title": "SolidCraft",
    "link": "https://github.com/bherbruck/solidcraft",
+   "source": "Show HN"
+  },
+  {
+   "title": "ShadowOfTheColossus-PC",
+   "link": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+   "source": "GitHub"
+  },
+  {
+   "title": "Esp32sim",
+   "link": "https://github.com/mikroverk/esp32sim",
+   "source": "Show HN"
+  },
+  {
+   "title": "Zfinix/eleven",
+   "link": "https://github.com/Zfinix/eleven",
+   "source": "GitHub"
+  },
+  {
+   "title": "Museum of Ages",
+   "link": "https://museumofages.org/w/vinci",
    "source": "Show HN"
   },
   {
@@ -53,56 +103,6 @@
   {
    "title": "Spotatui",
    "link": "https://github.com/LargeModGames/spotatui",
-   "source": "Show HN"
-  },
-  {
-   "title": "wheresryan22/anatomy",
-   "link": "https://github.com/wheresryan22/anatomy",
-   "source": "GitHub"
-  },
-  {
-   "title": "ARTEX",
-   "link": "https://github.com/mhtsec/ARTEX",
-   "source": "GitHub"
-  },
-  {
-   "title": "Guitoro",
-   "link": "https://guitoro.com/",
-   "source": "Show HN"
-  },
-  {
-   "title": "pdftomp3 connect-ai",
-   "link": "https://pdftomp3.com/connect-ai/",
-   "source": "Show HN"
-  },
-  {
-   "title": "photo-frame-dashboard",
-   "link": "https://github.com/wesbos/photo-frame-dashboard",
-   "source": "GitHub"
-  },
-  {
-   "title": "blokkily",
-   "link": "https://github.com/andrewfader/blokkily",
-   "source": "Show HN"
-  },
-  {
-   "title": "Parsimony",
-   "link": "https://parsimony.lasu.dev/",
-   "source": "Show HN"
-  },
-  {
-   "title": "XY Music Notation",
-   "link": "https://music.xy.dev/",
-   "source": "Show HN"
-  },
-  {
-   "title": "OpenCode 2.0",
-   "link": "https://www.producthunt.com/products/opencode",
-   "source": "Product Hunt"
-  },
-  {
-   "title": "BraiNOTES",
-   "link": "https://github.com/swimmingbrain/brainotes",
    "source": "Show HN"
   }
  ]
