@@ -1342,7 +1342,13 @@
 "pricing": "未知",
 "score": 7,
 "day": "2026-10-16",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/mylens-ai"
+}
+]
 },
 {
 "title": "Dreamscale Labs",
@@ -1732,7 +1738,13 @@
 "pricing": "免费",
 "score": 6,
 "day": "2026-10-16",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/pitch?utm_campaign=startup-189412&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "CodeCrab",
@@ -2264,7 +2276,13 @@
 "score": 4,
 "key_points": [],
 "day": "2026-10-16",
-"rank": 6.0
+"rank": 6.0,
+"also": [
+{
+"source": "آي-فون إسلام",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVB3LVNjc3o3ckhmaEVXVDY0SzhBZFJ5Ulk3OWpudzc5UFRabno0NDdWOEkzUGpyN3RtRkNZVE1ldllkZmdYRk1XYWoxNW9DRm9BZlZJRW42Q1pNanA2bEpIcm1vVkFrem5GVlRfc2ItODZLbDRvUDhhWDFCLWlpOUxlTWNvUlpUVWJSN1AwVk1NdjBPNER3aw?oc=5"
+}
+]
 },
 {
 "title": "AIOS×快递100：智能终端触手可及的AI快递物流基础设施",
@@ -2415,6 +2433,10 @@
 {
 "source": "搜狐网",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUxWbjJiRHgxTmJNMWZCMjJRT0ZuX0MyZmtJclJ4ay1oSHBOb1NzZU1kQzU0U3VnMXRFSGxxcVQ2Xy12SVpkbDg2OWNYZmVBZ2t2Ym1Mbm1ZeXlxRk5IWTBoSGcta3FGckdZaEFlWTdUMUdVUlJvU1RKWDhXYTc4OXR2QlRyamxEaEI4?oc=5"
+},
+{
+"source": "搜狐网",
+"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wTVloM3AwOG42UnNXYlNWMEhSVmlzU1RBM2ZuRzJZS2dPNWxDSzl2RDNhQjR5czlJTDlRbnpQSWFsLUNFYWVQcEJHODFMam9FX2c?oc=5"
 }
 ]
 }
