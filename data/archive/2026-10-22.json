@@ -1215,7 +1215,13 @@
 "pricing": "开源",
 "score": 4,
 "day": "2026-10-22",
-"rank": 7.3
+"rank": 7.3,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"
+}
+]
 },
 {
 "title": "Hotly",
