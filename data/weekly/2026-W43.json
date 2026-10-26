@@ -1,0 +1,109 @@
+{
+ "week": "2026-W43",
+ "range": "2026-10-19 ~ 2026-10-25",
+ "partial": false,
+ "generated": "2026-10-26T05:57:55.905161+00:00",
+ "summary": "这周的电视机有点抢戏。有人被一次不想要的 webOS 更新惹毛，干脆自己写 TV 软件，把语音导航和大屏上网重新装了回来[8]；安卓阵营更热闹，aerial-tv 参照 tvOS 做了一块无广告桌面，开机自动接管[5]，free-my-tv 同样给 Google TV 准备了无广告主屏，还贴心地留了一键撤销[14]，tv-vibehack 则用 ADB 清预装广告、换清爽启动器，号称一个下午用 Claude Code 写成[12]，tv-detox 也是同一路数，用 Claude Code 或 Codex 把吃灰的老盒子救活[17]。一圈看下来，电视厂商的\"智能\"，被开发者们手动重做了一遍。\n\nAI 编程这条线上，大家在解决\"AI 干了什么、我懂不懂\"的问题。Sphinx 是个开源的钩子工具，接进 AI 编程流程，每次上生产前弹一份小测验，检查你是否真的懂要发布的代码[1]。Agent 多了以后还得管理，Corgi 是终端里的 Agent 多路复用器，能看各 Agent 在忙什么、一键跳到下一个未读，像管收件箱一样[9]；Reason Network 更进一步，用 Rust 写了个 P2P 网络引擎，让团队的编码 Agent 互相通信[4]。往外延伸，huashu-motion 让编码 Agent 一键直出商业级产品宣传片，会作曲，还能指着画面改[3]；day-trader-skill 则把日内交易流程拆成 11 个可调用的 Claude skills[18]。\n\n图形和底层方向本周格外硬核。web-ocean 从零手写实时 WebGPU 海面渲染器，不用引擎，单个 61 KB 的 HTML 在 Chrome 里直接打开就能看 FFT 海浪和日落天空[6]；3d-model-anything 用 iPhone LiDAR 加照片扫房间，重建成可编辑的 Three.js 场景，直接在浏览器里逛[2]。Rubix-lang 完全用 x86-64 汇编写成，自带自举编译器[13]；UniXNU 则通过 UEFI 试着让 iOS 和 macOS 跑在非苹果的 ARM64 硬件上[20]。\n\n剩下的条目散落在各种\"小而美\"里。Death Plan Switch 是给独立开发者的自托管死亡开关，出事时把该通知的人和业务交接信息送达[7]；Dovepass 回答无人机两点之间按指定路线能否合法飞行，把建筑高度、风向和法规都纳入判断[10]。OnKey 是 Mac 应用，先听一遍歌再实时比对，告诉你哪里唱跑调[15]；cn-math-taxonomy 把 K12 数学拆成知识图谱，对标课标、覆盖人教版一至九年级，含 531 个知识点和 2271 道题[16]。娱乐方向的 SimCity, but with Permits 把审批流程搬进模拟城市，在 HN 上拿到 907 点[11]；VoidAccess 则是开源暗网 OSINT 引擎，几条命令跑完从查询到关系图谱的整条流水线[19]。",
+ "items": [
+  {
+   "title": "Sphinx",
+   "link": "https://sphinx-six-theta.vercel.app/",
+   "source": "Show HN"
+  },
+  {
+   "title": "3d-model-anything",
+   "link": "https://github.com/wesbos/3d-model-anything",
+   "source": "GitHub"
+  },
+  {
+   "title": "huashu-motion",
+   "link": "https://github.com/alchaincyf/huashu-motion",
+   "source": "GitHub"
+  },
+  {
+   "title": "Reason Network",
+   "link": "https://github.com/reason-machines/reason-network",
+   "source": "GitHub"
+  },
+  {
+   "title": "aerial-tv",
+   "link": "https://github.com/pengchujin/aerial-tv",
+   "source": "GitHub"
+  },
+  {
+   "title": "web-ocean",
+   "link": "https://github.com/Noniv/web-ocean",
+   "source": "GitHub"
+  },
+  {
+   "title": "Death Plan Switch",
+   "link": "https://deathplanswitch.com/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Making a smart TV dumb and then smart",
+   "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+   "source": "Show HN"
+  },
+  {
+   "title": "Corgi",
+   "link": "https://corgi.computer/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Dovepass",
+   "link": "https://dovepass.com",
+   "source": "Show HN"
+  },
+  {
+   "title": "SimCity, but with Permits",
+   "link": "https://permit.petercai.com/",
+   "source": "Show HN"
+  },
+  {
+   "title": "tv-vibehack",
+   "link": "https://github.com/Gathin23/tv-vibehack",
+   "source": "GitHub"
+  },
+  {
+   "title": "Rubix-lang",
+   "link": "https://github.com/tek-sys-hub/Rubix-lang",
+   "source": "GitHub"
+  },
+  {
+   "title": "free-my-tv",
+   "link": "https://github.com/simbasjungles/free-my-tv",
+   "source": "GitHub"
+  },
+  {
+   "title": "OnKey",
+   "link": "https://github.com/dsmurrell/onkey",
+   "source": "Show HN"
+  },
+  {
+   "title": "cn-math-taxonomy",
+   "link": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+   "source": "GitHub"
+  },
+  {
+   "title": "tv-detox",
+   "link": "https://github.com/Ansub/tv-detox",
+   "source": "GitHub"
+  },
+  {
+   "title": "day-trader-skill",
+   "link": "https://github.com/Jakeschincariol/day-trader-skill",
+   "source": "GitHub"
+  },
+  {
+   "title": "VoidAccess",
+   "link": "https://github.com/KatrielMoses/voidaccess",
+   "source": "Show HN"
+  },
+  {
+   "title": "UniXNU",
+   "link": "https://github.com/UniXNU/UniXNU",
+   "source": "GitHub"
+  }
+ ]
+}
