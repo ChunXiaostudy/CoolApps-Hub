@@ -86,7 +86,13 @@
 "pricing": "免费",
 "score": 7,
 "day": "2026-10-26",
-"rank": 10.66
+"rank": 10.66,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
+}
+]
 },
 {
 "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
