@@ -1,6 +1,39 @@
 {
  "runs": [
   {
+   "time": "2026-10-30T02:46:22.439371+00:00",
+   "sources": {
+    "Product Hunt": {
+     "fetched": 40,
+     "error": null
+    },
+    "Show HN": {
+     "fetched": 0,
+     "error": "HTTP Error 502: Bad Gateway"
+    },
+    "GitHub": {
+     "fetched": 20,
+     "error": null
+    },
+    "BetaList": {
+     "fetched": 25,
+     "error": null
+    },
+    "少数派": {
+     "fetched": 10,
+     "error": null
+    },
+    "The Verge": {
+     "fetched": 4,
+     "error": null
+    },
+    "Google News · 新产品": {
+     "fetched": 15,
+     "error": null
+    }
+   }
+  },
+  {
    "time": "2026-10-29T02:37:11.280251+00:00",
    "sources": {
     "Product Hunt": {
@@ -428,44 +461,11 @@
      "error": null
     }
    }
-  },
-  {
-   "time": "2026-10-16T01:33:42.657075+00:00",
-   "sources": {
-    "Product Hunt": {
-     "fetched": 40,
-     "error": null
-    },
-    "Show HN": {
-     "fetched": 20,
-     "error": null
-    },
-    "GitHub": {
-     "fetched": 20,
-     "error": null
-    },
-    "BetaList": {
-     "fetched": 25,
-     "error": null
-    },
-    "少数派": {
-     "fetched": 10,
-     "error": null
-    },
-    "The Verge": {
-     "fetched": 6,
-     "error": null
-    },
-    "Google News · 新产品": {
-     "fetched": 15,
-     "error": null
-    }
-   }
   }
  ],
  "streak": {
   "Product Hunt": 0,
-  "Show HN": 0,
+  "Show HN": 1,
   "GitHub": 0,
   "BetaList": 0,
   "少数派": 0,

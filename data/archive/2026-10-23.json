@@ -844,7 +844,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-10-23",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/radar-7"
+}
+]
 },
 {
 "title": "aSERP – Track how AI engines mention, cite, and recommend your brand",
