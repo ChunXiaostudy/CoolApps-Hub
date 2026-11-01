@@ -533,7 +533,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-10-27",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/ac-bridge"
+}
+]
 },
 {
 "title": "Lune – Ground your AI agent in top-tier CS papers and research practices",
