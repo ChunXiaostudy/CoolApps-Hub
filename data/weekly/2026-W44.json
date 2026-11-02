@@ -1,0 +1,109 @@
+{
+ "week": "2026-W44",
+ "range": "2026-10-26 ~ 2026-11-01",
+ "partial": false,
+ "generated": "2026-11-02T07:33:49.557589+00:00",
+ "summary": "本周最上头的是一批“把不可能塞进小盒子”的项目。有人把任天堂塞进了语言模型权重里，用约 1GB 的 Qwen 权重跑起一台能玩的 NES[1]；另一边，510 字节的引导扇区里装进了字符级神经网络推理引擎，开机就源源不断吐 Linux 启动日志[3]。主机游戏也没被放过：《王国之泪》被静态重编译成 Windows x86-64 原生程序，配 Vulkan 渲染器且不含游戏文件[5]；1987 年的《魂斗罗》从 6502 汇编逐段译成 C，再编译成 WebAssembly 跑进浏览器，还加了联网双人合作[14]。最离谱的还属 DOOMFORMER，用 DOOM 的游戏机制和巫毒娃娃实现矩阵运算，能识别 MNIST，还能让 DOOM 自己玩 DOOM[10]。\n\nAI 这边的主旋律是“不出本机”。Hob 是 MIT 开源的桌面应用，用本地开源模型处理文件，聊天和文件都不出本机，还能在沙箱里写 Python 造小工具[2]；Mika 把端侧助理搬上安卓手机，直接帮你操作 App、上网办事[6]；dsh-Go 则把 DeepSeek Harness 装进口袋，手机本机运行，也能遥控你的电脑[4]。创作向的同样强调本地：openjutsu 基于 ComfyUI 和 MiniMax H3 做本地视频换脸，再用 FLUX.3 Klein 重打光[11]；digital-human-koubo 一张照片就能生成数字人口播视频，内置 Renoise MCP 生成、5 种剪辑风格和 48 个创作者级包装组件[12]。要是只想围观，Sketch Stadium 让 AI Agent 互相玩你画我猜，你也能接自己的 Agent 上场[18]。\n\n开发者工具的画风则越来越“别离开键盘”。harp 并排跑多个 Claude Code 和 Codex 代理，侧边栏提示哪个需要你[13]；Ghostman 是键盘驱动的 TUI 终端 API 客户端，顺手还能当 webhook 检查器[15]；Lasm 把 Lean 带到浏览器、Node、Serverless 和边缘环境，用来写可形式化验证的 Web 应用[19]。关心安全的话，Zero-Breach Toolkit 是免费开源的离线检测工具，扫已知雇佣兵间谍软件痕迹，覆盖三大桌面系统、安卓手机与 iPhone 备份[9]。\n\n硬件区依旧是“指甲盖大小的芯片能干啥”系列。Marelleo 用 ESP32 给孩子做了个开源故事盒子[7]；kube32 干脆把 Kubernetes 重造到 ESP32 微控制器上[16]；Koppar LTE Modem 是开源 USB-C LTE 模块，让电脑像手机一样拥有一条电话线[17]；Snapintosh 则用 EL2 虚拟化 hypervisor 加工具链，让 macOS 在 ASUS A16（骁龙 X2 Elite）上跑起来，连 Adreno 的 Metal/IOGPU 图形栈都自己啃[8]。\n\n最后留个彩蛋：闹了几天的 PHP RCE 被做成了公开挑战“Steal My Bitcoin”，有本事就来把比特币拿走[20]。本周的共性大概就是——越小的容器，越大的野心。",
+ "items": [
+  {
+   "title": "nesformer",
+   "link": "https://github.com/dbreunig/nesformer",
+   "source": "Show HN"
+  },
+  {
+   "title": "Hob",
+   "link": "https://github.com/FrigadeHQ/hob",
+   "source": "Show HN"
+  },
+  {
+   "title": "Boot Sector LLM",
+   "link": "https://github.com/kerlenton/bootgpt",
+   "source": "Show HN"
+  },
+  {
+   "title": "dsh-Go",
+   "link": "https://github.com/ccch1mneyyy/dsh-Go",
+   "source": "GitHub"
+  },
+  {
+   "title": "totk-pc-recomp",
+   "link": "https://github.com/valentderah/totk-pc-recomp",
+   "source": "GitHub"
+  },
+  {
+   "title": "Mika",
+   "link": "https://github.com/wangzan101/Mika",
+   "source": "GitHub"
+  },
+  {
+   "title": "Marelleo",
+   "link": "https://zebra.rodeo/en/blog/marelleo/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Snapintosh",
+   "link": "https://github.com/Snapintosh/Snapintosh",
+   "source": "GitHub"
+  },
+  {
+   "title": "Zero-Breach Toolkit",
+   "link": "https://github.com/interplains/Zero-Breach-Toolkit",
+   "source": "GitHub"
+  },
+  {
+   "title": "DOOMFORMER",
+   "link": "https://github.com/mottopanikeiku/doomformer",
+   "source": "Show HN"
+  },
+  {
+   "title": "openjutsu",
+   "link": "https://github.com/D3voz/openjutsu",
+   "source": "GitHub"
+  },
+  {
+   "title": "digital-human-koubo",
+   "link": "https://github.com/andyhuo520/digital-human-koubo",
+   "source": "GitHub"
+  },
+  {
+   "title": "harp",
+   "link": "https://github.com/dominikmartn/harp",
+   "source": "GitHub"
+  },
+  {
+   "title": "NES Contra 网页移植版",
+   "link": "https://epoyraz.github.io/nes-contra-us/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Ghostman",
+   "link": "https://github.com/4yk5/Ghostman",
+   "source": "Show HN"
+  },
+  {
+   "title": "kube32",
+   "link": "https://github.com/arterialist/kube32",
+   "source": "Show HN"
+  },
+  {
+   "title": "Koppar LTE Modem",
+   "link": "https://github.com/Koppar-AI/koppar-lte-modem",
+   "source": "Show HN"
+  },
+  {
+   "title": "Sketch Stadium",
+   "link": "https://sketch.wakeshift.ai/games/q5ucru",
+   "source": "Show HN"
+  },
+  {
+   "title": "Lasm",
+   "link": "https://github.com/Millillion/lasm",
+   "source": "Show HN"
+  },
+  {
+   "title": "Steal My Bitcoin",
+   "link": "https://stealmybitcoin.com/",
+   "source": "Show HN"
+  }
+ ]
+}
