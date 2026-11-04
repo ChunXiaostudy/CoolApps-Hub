@@ -1421,7 +1421,13 @@
 "score": 5,
 "key_points": [],
 "day": "2026-10-17",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/nana-2"
+}
+]
 },
 {
 "title": "Holm",

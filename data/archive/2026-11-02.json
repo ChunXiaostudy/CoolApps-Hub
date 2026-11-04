@@ -723,7 +723,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-02",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/modelpiper?utm_campaign=startup-195143&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "RankCLI – Audit and auto-fix SEO from your terminal with CI-ready workflows",
