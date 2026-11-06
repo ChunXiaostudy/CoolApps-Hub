@@ -538,6 +538,10 @@
 {
 "source": "Product Hunt",
 "link": "https://www.producthunt.com/products/ac-bridge"
+},
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/meetonbridge"
 }
 ]
 },
@@ -943,7 +947,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-10-27",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/nock-2"
+}
+]
 },
 {
 "title": "MasterAI Now – Learn ML and LLMs with bite-size lessons and interactive simulations",
