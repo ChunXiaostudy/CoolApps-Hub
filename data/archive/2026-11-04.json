@@ -1435,7 +1435,13 @@
 "score": 5,
 "key_points": [],
 "day": "2026-11-04",
-"rank": 6.5
+"rank": 6.5,
+"also": [
+{
+"source": "新浪网",
+"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IbEVLRzF6ZzQ2YmplUjA0LUVWSUdWUXR0Ymw2bWtzUGJhcXFYWHpPLVh3SW02SEpFQ25mVnk1eXQ0a1NxekdHWmhianVyVUZ1SVNEUjg0UENtajJsZzV3RjByRExtMURpMVNMSmlEbHQ?oc=5"
+}
+]
 },
 {
 "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
