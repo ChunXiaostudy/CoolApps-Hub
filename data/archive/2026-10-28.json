@@ -650,7 +650,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-10-28",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/switchy"
+}
+]
 },
 {
 "title": "SnapEX Pay – Crypto payment gateway for hosting, VPN, and online stores",
