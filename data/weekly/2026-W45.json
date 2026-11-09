@@ -1,0 +1,109 @@
+{
+ "week": "2026-W45",
+ "range": "2026-11-02 ~ 2026-11-08",
+ "partial": false,
+ "generated": "2026-11-09T07:50:38.702087+00:00",
+ "summary": "这周的条目看下来，最直观的感受是：人和机器的“接口”正在往奇怪又有趣的方向长。有人做了副智能眼镜，闭着嘴默念就能把话转成文字输进电脑，速度接近正常语速[1]；有人把地质图直接叠到相机画面上，对着风景就能查岩石介绍，还能回看大陆漂移前的样子[7]；还有 poki，让 AI Agent 直接操作真机 iPhone，本地 MCP 服务器，不用越狱也不用额外硬件[14]。科幻感拉满，但都是能跑起来的东西。\n\n安全与隐私这块也有几件挺实用的。NOIR 用 adb 给 Android 手机做隐私审计，扫出应用权限、上报端点与数据流向，给出的处置还能回滚[3]；Coldframe 则是反过来的思路——伪装成超市冷柜控制器的蜜罐，单个 Python 文件、只用标准库，连 nginx 头顺序都照着真机抄，被 Shodan 当成真设备[4]；personal-data-deletor-osint 更直接，一键向 970 家数据经纪商发出删除请求，免费、本地运行、不用账号、不经过服务器[13]。一个查手机、一个钓鱼、一个帮你删数据，凑一起像套隐私三件套。\n\nAgent 们这周也开始“自己接活”。agent-autoloop 让命令行 Agent 在后台自己接活、跟进到底，遇到拿不准的事才发卡片找你决定[11]；cinecode 把拍片流程塞进代码，AI 编程助手写剧本、逐帧搭画面、设计声音，最后直接给一个 MP4[15]；LDraw Mecha 让 agentic LLM 读带注释的 LDraw 乐高模型源码，推断内部机构结构，再通过 Blender 把它动画化[19]；open-yoki 则是跑在单台服务器上的 AI 直播主播，声音、形象、聊天、记忆和发帖集于一身[10]。\n\n工具党这周也不缺收获。OmniDiff 是用 Rust 写的开源 Git difftool，代码、配置、图片、PDF、压缩包、字体都能对比，速度很快[6]；知了 Cicada 在 Mac、Windows、Linux、Android 上免费开源地做实时字幕、同声传译并生成 AI 会议纪要[5]；hyperflow-h3-flash 把 31B 的视频加音频扩散模型压到 14B，6 步出片，还支持 INT8[16]，对本地创作者挺友好。\n\n最后是玩和学。StudyOnTV 是个开源 Android TV 应用，孩子答对题才能解锁看电视时间，全程跑在电视上，无服务器无账号[12]；BBRouter 在 3D 面包板上模拟 Ben Eater 8 位计算机，能接线、示波、看原理图并跟着教程搭建，还能接 AI 帮忙排错[18]；Warsaw in voxels 用体素搭出华沙市中心，能切换日期、时段和天气，还能点选路人操控他走动[2]。再往娱乐走，Uncracked City 让你审问会说谎的 LLM 嫌疑人[9]，Lichii 是刚露面的 Switch 2 的实验性开源模拟器[8]，The DNA of DOOM 则像代码考古，分析 44 个 DOOM 移植版看哪些函数和结构一路活了下来[17]。对了，HackerBooks 把 Hacker News 评论里被提到至少两次的书汇成约 1.65 万本，每本都能回溯到原评论[20]——周报写累了，可以去里面翻翻。",
+ "items": [
+  {
+   "title": "Subvocal",
+   "link": "https://news.ycombinator.com/item?id=50340088",
+   "source": "Show HN"
+  },
+  {
+   "title": "Warsaw in voxels",
+   "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "source": "Show HN"
+  },
+  {
+   "title": "NOIR",
+   "link": "https://github.com/Verlintas/NOIR",
+   "source": "GitHub"
+  },
+  {
+   "title": "Coldframe",
+   "link": "https://github.com/hedgerow-dev/coldframe",
+   "source": "Show HN"
+  },
+  {
+   "title": "知了 Cicada",
+   "link": "https://github.com/wquguru/cicada",
+   "source": "GitHub"
+  },
+  {
+   "title": "OmniDiff",
+   "link": "https://github.com/ivankovic/omnidiff",
+   "source": "Show HN"
+  },
+  {
+   "title": "AR 地质地图应用",
+   "link": "https://outcrop.rocks/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Lichii",
+   "link": "https://github.com/zortos293/Lichii",
+   "source": "GitHub"
+  },
+  {
+   "title": "Uncracked City",
+   "link": "https://uncracked.city",
+   "source": "Show HN"
+  },
+  {
+   "title": "open-yoki",
+   "link": "https://github.com/jacke-pp/open-yoki",
+   "source": "GitHub"
+  },
+  {
+   "title": "agent-autoloop",
+   "link": "https://github.com/KKKKhazix/agent-autoloop",
+   "source": "GitHub"
+  },
+  {
+   "title": "StudyOnTV",
+   "link": "https://github.com/chadyi/StudyOnTV",
+   "source": "GitHub"
+  },
+  {
+   "title": "personal-data-deletor-osint",
+   "link": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+   "source": "GitHub"
+  },
+  {
+   "title": "poki",
+   "link": "https://github.com/JosssphZhou/poki",
+   "source": "GitHub"
+  },
+  {
+   "title": "cinecode",
+   "link": "https://github.com/sarpstar/cinecode",
+   "source": "GitHub"
+  },
+  {
+   "title": "hyperflow-h3-flash",
+   "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+   "source": "Show HN"
+  },
+  {
+   "title": "The DNA of DOOM",
+   "link": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+   "source": "Show HN"
+  },
+  {
+   "title": "BBRouter",
+   "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+   "source": "Show HN"
+  },
+  {
+   "title": "LDraw Mecha",
+   "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+   "source": "Show HN"
+  },
+  {
+   "title": "HackerBooks",
+   "link": "https://hackerbooks.org",
+   "source": "Show HN"
+  }
+ ]
+}
