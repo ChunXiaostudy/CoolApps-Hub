@@ -1387,7 +1387,13 @@
 "pricing": "免费",
 "score": 6,
 "day": "2026-11-08",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "Show HN",
+"link": "https://github.com/Dodaios/ste80-humanizer"
+}
+]
 },
 {
 "title": "Execuday – Tasks, team calendar, and time off in one app",
