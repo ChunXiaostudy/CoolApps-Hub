@@ -782,7 +782,13 @@
 "pricing": "免费",
 "score": 7,
 "day": "2026-11-09",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/elevenlabs"
+}
+]
 },
 {
 "title": "Posticle – Turn niche industry news into on-brand social posts in under a minute",
