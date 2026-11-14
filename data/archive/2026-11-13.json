@@ -1053,7 +1053,13 @@
 "pricing": "未知",
 "score": 6,
 "day": "2026-11-13",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/whoop"
+}
+]
 },
 {
 "title": "Neura HQ",
@@ -1170,7 +1176,13 @@
 "pricing": "未知",
 "score": 6,
 "day": "2026-11-13",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/gemini-6"
+}
+]
 },
 {
 "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
