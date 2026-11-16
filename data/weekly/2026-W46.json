@@ -1,0 +1,109 @@
+{
+ "week": "2026-W46",
+ "range": "2026-11-09 ~ 2026-11-15",
+ "partial": false,
+ "generated": "2026-11-16T07:51:04.798150+00:00",
+ "summary": "这周的主题大概是“别靠模拟层，直接原生跑”。S2Arm 把 Switch 游戏重写成 ARM64、图形直通 Metal，一个 App 装下整个游戏库 [1]；另一边《黑色行动2》被静态重编译成原生 ARM64 Mac 应用，不用 Wine 也不用 Rosetta，全区域约 60fps，战役和僵尸模式都能玩 [7]。再往外扩一点，phoneuse 让 Linux 电脑通过 AirPlay 镜像和蓝牙 HID 查看并操作未越狱的 iPhone，还顺手给了 CLI 和给 Agent 用的 skill [9]——设备之间的墙，今年好像特别招人拆。\n\n地图类项目也是扎堆出现的好玩货。Isometric SF 把湾区 1300 平方英里的 3D 数据变成一张能逛的等距像素地图，苹果园、艺术宫都能偶遇，靠小型开源模型微调出统一风格，成本只要大模型的四分之一 [6]；Tiny Valencia 则把整座瓦伦西亚做成《模拟城市》式的等距网页地图 [17]。如果你更关心头顶，Satellites over your street 输入任意地点就能找出过去 7 天飞过它的卫星并调出真实影像，轨道全画在 GPU 上，还保证不漏过一次过境 [2]。\n\nAI 代理正在从“助手”往“同事”挪。Yogurt 是免费 MIT 开源的桌面会议助手，本地 AI 转写、总结，还能和记录对话，数据不出电脑 [3]；agentes-chat 干脆做了个开源可自托管的 Slack 替代品，团队和 AI 代理在同一条频道里干活，代理有电脑、浏览器、记忆和审批环节 [4]。Recalc 更妙，表格的每个单元格都能是跑着 Claude Code 或 Codex 的终端会话，彼此还能互相对话 [13]；lot-map 则把 Claude Code 正在做什么实时画成一张地图，工具调用、hooks、skills 和子 Agent 随发生而亮起，纯本地运行，支持 7 种语言 [10]。\n\n工具区的关键词是“小得夸张”和“别让我订阅”。HolyArrs 只有 15 MB，却能把自家影音库变成 Netflix、Spotify 式界面 [5]；Godbolt 进了 Neovim 的悬浮窗，用本地编译器把 C/C++/Rust 转成汇编，不联网也能边写边看 [8]；Aircad 把专业 CAD 搬进浏览器，制图和 NURBS 实体建模之外还能用脚本 API 驱动全流程 [12]；deepseek-v3-jax 用约 200 行纯 Jax 实现了 DeepSeek V3，读代码就能学 [19]。有人因为 300 美元的刺绣机要订阅才能用，索性自己写了个 App [14]——这股气性很对味。顺带一提，还有一份开源的 200+ 篇手写 Web 原生实现指南，专门教编码 Agent 用上现代浏览器能力 [15]。\n\n最后是几个让人会心一笑的小东西。Someone Was Here 在 Mac 菜单栏盯着你的电脑，有人动了就拍照，认不出是你就把照片推到 iPhone，识别全程在本机 [11]；Chimera Vocal Synth 用 Rust 写人声合成器，能唱歌、说话、还能 Beatbox [18]；terminactory 是 Rust 加 ratatui 的终端放置工厂游戏，边等 agent 任务边玩，还能接 Claude Code 收“电报” [20]。想换换脑子的话，Terms Sheet Please 借《请出示证件》式玩法，让你决定该给哪些 YC 创业公司投资 [16]。",
+ "items": [
+  {
+   "title": "S2Arm",
+   "link": "https://github.com/jhaizhou-ops/S2Arm",
+   "source": "GitHub"
+  },
+  {
+   "title": "Satellites over your street",
+   "link": "https://www.watched.earth",
+   "source": "Show HN"
+  },
+  {
+   "title": "Yogurt",
+   "link": "https://github.com/FrigadeHQ/yogurt",
+   "source": "Show HN"
+  },
+  {
+   "title": "agentes-chat",
+   "link": "https://github.com/agentes-chat/agentes-chat",
+   "source": "GitHub"
+  },
+  {
+   "title": "HolyArrs",
+   "link": "https://github.com/HolyArrs/HolyArrs",
+   "source": "Show HN"
+  },
+  {
+   "title": "Isometric SF",
+   "link": "https://isometricsf.com/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Black Ops II ARM64 macOS 静态重编译",
+   "link": "https://github.com/adrbn/bo2-mac",
+   "source": "Show HN"
+  },
+  {
+   "title": "Godbolt in a floating window for Neovim",
+   "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+   "source": "Show HN"
+  },
+  {
+   "title": "lxe/phoneuse",
+   "link": "https://github.com/lxe/phoneuse",
+   "source": "GitHub"
+  },
+  {
+   "title": "alexeyw/lot-map",
+   "link": "https://github.com/alexeyw/lot-map",
+   "source": "GitHub"
+  },
+  {
+   "title": "Someone Was Here",
+   "link": "https://someonewashere.app/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Aircad",
+   "link": "https://aircad.com",
+   "source": "Show HN"
+  },
+  {
+   "title": "Recalc",
+   "link": "https://github.com/sshah03/recalc",
+   "source": "Show HN"
+  },
+  {
+   "title": "自制刺绣机应用",
+   "link": "https://github.com/simpsoka/zigzag",
+   "source": "Show HN"
+  },
+  {
+   "title": "Chrome Web 编码 Agent 最佳实践指南",
+   "link": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source": "Show HN"
+  },
+  {
+   "title": "Terms Sheet Please",
+   "link": "https://termsheetplease.com/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Tiny Valencia",
+   "link": "https://tinyvalencia.com/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Chimera Vocal Synth",
+   "link": "https://github.com/jamesondh/chimera-vocal-synth",
+   "source": "GitHub"
+  },
+  {
+   "title": "deepseek-v3-jax",
+   "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "source": "Show HN"
+  },
+  {
+   "title": "terminactory",
+   "link": "https://gitlab.com/snipedbywifi/terminactory",
+   "source": "Show HN"
+  }
+ ]
+}
