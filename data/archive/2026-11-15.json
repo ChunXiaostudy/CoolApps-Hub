@@ -1358,7 +1358,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-15",
-"rank": 6.5
+"rank": 6.5,
+"also": [
+{
+"source": "Sohu",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOF93T0dvZWdRSTJGaFY5QkYyOW9GNEZTUm5YdjhPbkF2WnJUVlZMWHhtaUNWdVg2SzVSNGQtQzFaQ09xeTlxNm9SeV9CRW5SMVpzQkJHcVJBbUl2TUdJMFN1RG1qNXFjTzFoeVpOVVRXNUk0OE9JWHNmWHJRVTBReUtod2xVUUho?oc=5"
+}
+]
 },
 {
 "title": "StateLicense – Contractor license verification API for platforms",
