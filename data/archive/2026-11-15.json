@@ -521,7 +521,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-15",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/nexus-11"
+}
+]
 },
 {
 "title": "AtriumKit – Create interactive demos and guides from one recording",
@@ -1363,6 +1369,10 @@
 {
 "source": "Sohu",
 "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOF93T0dvZWdRSTJGaFY5QkYyOW9GNEZTUm5YdjhPbkF2WnJUVlZMWHhtaUNWdVg2SzVSNGQtQzFaQ09xeTlxNm9SeV9CRW5SMVpzQkJHcVJBbUl2TUdJMFN1RG1qNXFjTzFoeVpOVVRXNUk0OE9JWHNmWHJRVTBReUtod2xVUUho?oc=5"
+},
+{
+"source": "36氪",
+"link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0d3FLYUYyVW5mTUxZNEVfeVNaVTdzNFNzYWRLRWFWc2JxM25TVDR1ZmZIQjE3N2RySEV4c1dSWXg1Qm5hUmxQRjVUaXk5Zw?oc=5"
 }
 ]
 },

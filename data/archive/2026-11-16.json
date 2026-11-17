@@ -551,7 +551,13 @@
 "pricing": "未知",
 "score": 5,
 "day": "2026-11-16",
-"rank": 8.14
+"rank": 8.14,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/runcandor?utm_campaign=startup-202335&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "Pixel Office",
