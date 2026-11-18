@@ -295,7 +295,13 @@
 "score": 7,
 "key_points": [],
 "day": "2026-10-19",
-"rank": 9.0
+"rank": 9.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/inbox-hero-2"
+}
+]
 },
 {
 "title": "Latch",

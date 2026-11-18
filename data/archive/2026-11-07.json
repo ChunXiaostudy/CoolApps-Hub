@@ -355,7 +355,13 @@
 "score": 7,
 "key_points": [],
 "day": "2026-11-07",
-"rank": 9.0
+"rank": 9.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/wispos"
+}
+]
 },
 {
 "title": "Apex One – Your phone counts every rep and coaches you out loud",
