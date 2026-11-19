@@ -1488,7 +1488,13 @@
 "score": 4,
 "key_points": [],
 "day": "2026-10-30",
-"rank": 6.0
+"rank": 6.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/kino-2"
+}
+]
 },
 {
 "title": "华为发布FreeClip 2及移动电源等多款新品",

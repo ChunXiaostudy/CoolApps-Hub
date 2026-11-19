@@ -303,7 +303,13 @@
 "score": 7,
 "key_points": [],
 "day": "2026-11-03",
-"rank": 9.0
+"rank": 9.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/beacon-26"
+}
+]
 },
 {
 "title": "Agent Inbox",

@@ -1065,7 +1065,13 @@
 "score": 5,
 "key_points": [],
 "day": "2026-11-18",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/linkbit"
+}
+]
 },
 {
 "title": "MyZucoins – Tools and services for Zucoin's Splitchain layer 1 network",
