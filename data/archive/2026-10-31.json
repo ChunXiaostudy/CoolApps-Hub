@@ -550,7 +550,13 @@
 "pricing": "未知",
 "score": 8,
 "day": "2026-10-31",
-"rank": 9.0
+"rank": 9.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/seedance-3-0?utm_campaign=startup-199740&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "ilse",
