@@ -1373,7 +1373,21 @@
 "pricing": "开源",
 "score": 4,
 "day": "2026-11-19",
-"rank": 7.11
+"rank": 7.11,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
+},
+{
+"source": "GitHub",
+"link": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
+},
+{
+"source": "GitHub",
+"link": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
+}
+]
 },
 {
 "title": "WP Octo – Maintain all your clients' WordPress sites from one overview",
@@ -1659,7 +1673,13 @@
 "pricing": "免费",
 "score": 6,
 "day": "2026-11-19",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/ai-photo-editor?utm_campaign=startup-200185&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "Stringman",

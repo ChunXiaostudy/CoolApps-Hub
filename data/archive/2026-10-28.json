@@ -1119,7 +1119,13 @@
 "pricing": "订阅",
 "score": 6,
 "day": "2026-10-28",
-"rank": 7.0
+"rank": 7.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/loyaltygo?utm_campaign=startup-200051&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "Spacesheep",
