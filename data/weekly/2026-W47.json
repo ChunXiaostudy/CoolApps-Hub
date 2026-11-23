@@ -1,0 +1,109 @@
+{
+ "week": "2026-W47",
+ "range": "2026-11-16 ~ 2026-11-22",
+ "partial": false,
+ "generated": "2026-11-23T08:52:13.239196+00:00",
+ "summary": "本周最像“动手实验室”的一组项目，主打把熟悉的东西拆开或者用奇怪材料重新拼起来。有人把旅行者一号一路拆到单颗内存芯片，还顺手展示了探测器实时位置和地球上的接收天线[1]；另一边，空饮料纸盒、竹签和吸管居然被拼成一台能走一小时的摆钟，擒纵机构和时分秒针一个不少，齿轮还借助 AI 辅助设计[3]。如果想看更微观的热闹，终端里的 ASCII 细胞会分裂，免疫细胞追着细菌跑，噬菌体还时不时来捣乱[13]。浏览器里的海底梦境则完全由 WebGPU 实时生成，没有图片、模型或音频文件，整个 97 KB 单 HTML 文件就是一片海[6]。还有上海高中生用三周写出的免费开源 Mac 浏览器 Zigzag，支持导入 Arc 数据和 Chrome 扩展[7]。\n\n开发者工具这边，主线是让智能体真正落地干活。Mastra 把官方自用的“软件工厂”开源了，在 Slack 里 @ 一下可配置智能体看板，就能维护 Mastra 自身[2]；Coral 则让 agent 通过写 TypeScript 小程序来调用工具，还能存成自定义工具复用[14]。数据库分支也被做成了秒级快照，db-branch 通过 ZFS 为 AI Agent 和 CI 快速创建分支[16]；rust-anything 走的是渐进式迁移路线，把 TypeScript、Python、Go 等应用分块改写成 Rust，每一步都对照原程序录制的行为做校验[5]。实时视频目标追踪工具 tamserve 则展示了单张 4090 同时跑 16 路摄像头、显存稳定在 3.5GB 的能力[15]。\n\n3D 创作和写作工具也在往“增强而不是代劳”的方向走。Blender 里的 AI 材质工坊输入文字就能在视口内生成无缝 PBR 材质与场景投影[10]；配套的 AI 副驾和 MCP 服务器则让用户用自然语言完成场景操作，还内置可视化聊天工作台和 27 个场景工具[11]。写作应用 Foolscap 更有意思，它边写边读，帮你梳理人物、线索和悬而未决的部分，但从不替你动笔[9]。\n\n模型和前端也有反潮流选手。开源的音频转 MIDI 转录模型 dettato 体积约为对比模型 muscriptor 1.3b 的 1/60，却在全部测试集上表现更好，训练还未使用受版权保护录音[4]。Alloy CSS 则用纯 CSS 实现对话框、菜单与标签页组件，关掉 JavaScript 也照常工作[18]；pybot 更彻底，纯 Python 加规则跑聊天机器人，不需要权重和训练[8]。\n\n最后是几件挺实用的生活化工具。已 root 的安卓手机可以变成真实 USB 键鼠，往锁定设备里敲字，目标机零安装[12]；neonclipping 粘贴一个链接，约 2 分钟就能得到带字幕的 9:16 竖版切片，免费、本地、开源[19]。麦田则把 B 站、抖音、小红书等平台发布和数据监控收进一个中控，还配了飞书卡片通知与数据大屏[20]。",
+ "items": [
+  {
+   "title": "Take Voyager 1 apart",
+   "link": "https://rshekhar.com/voyager/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Mastra Factory",
+   "link": "https://news.ycombinator.com/item?id=50548660",
+   "source": "Show HN"
+  },
+  {
+   "title": "Carton Clock",
+   "link": "https://www.niklasroy.com/carton-clock/",
+   "source": "Show HN"
+  },
+  {
+   "title": "dettato",
+   "link": "https://kobi.music/research/dettato",
+   "source": "Show HN"
+  },
+  {
+   "title": "rust-anything",
+   "link": "https://github.com/erkamyaman/rust-anything",
+   "source": "GitHub"
+  },
+  {
+   "title": "abyssal-garden",
+   "link": "https://github.com/Noniv/abyssal-garden",
+   "source": "GitHub"
+  },
+  {
+   "title": "Zigzag",
+   "link": "https://github.com/ZigaoWang/zigzag",
+   "source": "Show HN"
+  },
+  {
+   "title": "pybot",
+   "link": "https://github.com/huggingface/pybot",
+   "source": "GitHub"
+  },
+  {
+   "title": "Foolscap",
+   "link": "https://foolscap.works/",
+   "source": "Show HN"
+  },
+  {
+   "title": "ai-texture-forge",
+   "link": "https://github.com/linknimiball1974/ai-texture-forge",
+   "source": "GitHub"
+  },
+  {
+   "title": "blender-ai-copilot-studio",
+   "link": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+   "source": "GitHub"
+  },
+  {
+   "title": "Emittr",
+   "link": "https://github.com/mr-anjaneyam/Emittr",
+   "source": "Show HN"
+  },
+  {
+   "title": "terminal-cells",
+   "link": "https://github.com/kborer/cells/",
+   "source": "Show HN"
+  },
+  {
+   "title": "Coral",
+   "link": "https://github.com/withcoral/coral",
+   "source": "Show HN"
+  },
+  {
+   "title": "tamserve",
+   "link": "https://github.com/aryamandarda/tamserve",
+   "source": "Show HN"
+  },
+  {
+   "title": "db-branch",
+   "link": "https://github.com/db-branch/db-branch",
+   "source": "Show HN"
+  },
+  {
+   "title": "blender-ai-mcp-addon",
+   "link": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+   "source": "GitHub"
+  },
+  {
+   "title": "Alloy CSS",
+   "link": "https://alloyhtml.com/example.html",
+   "source": "Show HN"
+  },
+  {
+   "title": "neonclipping",
+   "link": "https://github.com/iamajmeena/neonclipping",
+   "source": "GitHub"
+  },
+  {
+   "title": "麦田 mdldm-maitian",
+   "link": "https://github.com/CzzzzzzJ/mdldm-maitian",
+   "source": "GitHub"
+  }
+ ]
+}
