@@ -695,7 +695,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-09",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/denotch"
+}
+]
 },
 {
 "title": "Assmbl – Plan group trips with polls, links, and payments in one shareable link",
