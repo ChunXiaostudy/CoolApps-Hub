@@ -152,7 +152,13 @@
 "pricing": "开源",
 "score": 6,
 "day": "2026-11-22",
-"rank": 9.5
+"rank": 9.5,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/ubiquitarianism/leonida"
+}
+]
 },
 {
 "title": "Show HN: Zero C# – C# without a runtime or GC",

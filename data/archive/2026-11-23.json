@@ -348,7 +348,13 @@
 "pricing": "未知",
 "score": 8,
 "day": "2026-11-23",
-"rank": 9.0
+"rank": 9.0,
+"also": [
+{
+"source": "BetaList",
+"link": "https://betalist.com/startups/ai-agent-teams?utm_campaign=startup-204179&utm_medium=atom&utm_source=newsfeed"
+}
+]
 },
 {
 "title": "Omi CLI",
