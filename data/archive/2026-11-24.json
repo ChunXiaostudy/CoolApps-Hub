@@ -28,7 +28,13 @@
 "pricing": "开源",
 "score": 8,
 "day": "2026-11-24",
-"rank": 11.5
+"rank": 11.5,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/xcl-dev/xcl"
+}
+]
 },
 {
 "title": "AFK-surf/xnulinux",

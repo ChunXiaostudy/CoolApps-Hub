@@ -1546,7 +1546,13 @@
 "score": 4,
 "key_points": [],
 "day": "2026-11-17",
-"rank": 6.0
+"rank": 6.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/prates"
+}
+]
 },
 {
 "title": "极狐汽车全民换电生态发布 贝塔T1/S3双子星上新5.2万起",
