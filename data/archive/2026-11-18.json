@@ -803,7 +803,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-18",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/superloupe"
+}
+]
 },
 {
 "title": "Video Cutter AI – Turn long videos into viral, captioned clips for every platform",

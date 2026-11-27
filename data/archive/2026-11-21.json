@@ -433,7 +433,13 @@
 "score": 6,
 "key_points": [],
 "day": "2026-11-21",
-"rank": 8.0
+"rank": 8.0,
+"also": [
+{
+"source": "Product Hunt",
+"link": "https://www.producthunt.com/products/ground-2"
+}
+]
 },
 {
 "title": "CarRuler – Compare car dimensions and check garage fit with true-scale overlays",
