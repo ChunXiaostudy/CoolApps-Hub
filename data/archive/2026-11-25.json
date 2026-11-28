@@ -273,7 +273,13 @@
 "pricing": "开源",
 "score": 6,
 "day": "2026-11-25",
-"rank": 9.26
+"rank": 9.26,
+"also": [
+{
+"source": "GitHub",
+"link": "https://github.com/umbradev315/ffmpeg-video-audio-converter"
+}
+]
 },
 {
 "title": "Bish Bash Bosh – The AI film studio that helps you pitch, block, and shoot",
@@ -1681,7 +1687,13 @@
 "score": 5,
 "key_points": [],
 "day": "2026-11-25",
-"rank": 5.5
+"rank": 5.5,
+"also": [
+{
+"source": "ELLE China",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQktwMGlLeWVYVVZ2M09UaVg4MEhCc3NpVGJqWVRNU1lqNkxXeHZDYm85RTUtRFdMREJGOF9IV19rd0pEaWNsbTN1bHN3enR6dUUyTDNxVVVrZ05ZQ1U5ZkdjNDVDNjBib3h0MjhQbm5KWE45dGNCVTFCVnduekx5dEE0aw?oc=5"
+}
+]
 },
 {
 "title": "PICO Space Pro 发布会定档 12 月 2 日，官方预热“Shape Your Space”",
@@ -1739,6 +1751,12 @@
 "score": 4,
 "key_points": [],
 "day": "2026-11-25",
-"rank": 4.5
+"rank": 4.5,
+"also": [
+{
+"source": "新浪财经",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVHFEUXF0SHRxV2hDTTcyZ1FoY0lTajU4UTVvNmEzUDR0RkNGeDRfSFJvRDFKX1EtNlBYT2paeTdsUTRQLVhTTjh5YTQ0Njd1bkpLWUJlWmFKb3BqYTdVck4tMDVEYkpORGxuRUZnZGt1TEVTUm5QVQ?oc=5"
+}
+]
 }
 ]
